@@ -1,0 +1,1000 @@
+,estado,ano,mes,DTOBITO,DTNASC,SEXO,RACACOR,ASSISTMED,ESCMAE,ESTCIV,ESC,OCUP,CODMUNRES,CAUSABAS,CAUSABAS_O,LOCOCOR,CIRURGIA
+1,AC,2010,1,2010-01-31,1999-11-09,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,ESTUDANTE,Tarauacá,X780,X780,Via pública,Não
+2,AC,2010,2,2010-02-07,1985-09-23,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,ESTUDANTE,Tarauacá,X780,X780,Hospital,Não
+3,AC,2010,2,2010-02-19,1995-08-06,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,ESTUDANTE,Tarauacá,X780,X780,Hospital,Não
+4,AC,2010,4,2010-04-20,1983-12-25,Feminino,Parda,NA,NA,Casado/a,1 a 3 anos,DONA DE CASA,Tarauacá,X780,X780,Domicílio,Não
+5,AC,2010,7,2010-07-24,1982-05-13,Masculino,Parda,NA,NA,Casado/a,NA,DONA DE CASA,Tarauacá,X720,X720,Domicílio,Não
+6,AC,2010,4,2010-04-30,1967-07-13,Feminino,Preta,NA,NA,Solteiro/a,4 a 7 anos,DONA DE CASA,Tarauacá,X780,X780,Hospital,Não
+7,AC,2010,1,2010-01-15,1979-09-05,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Rio Branco,X700,X700,Domicílio,Não
+8,AC,2010,1,2010-01-16,1994-01-19,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,Rio Branco,X700,X700,Domicílio,Não
+9,AC,2010,9,2010-09-15,1952-04-14,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,Rio Branco,X629,R99,Domicílio,NA
+10,AC,2010,9,2010-09-03,1968-08-14,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,Epitaciolândia,X747,X747,Domicílio,Não
+11,AC,2010,9,2010-09-05,1971-11-23,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,Rio Branco,X700,X700,Domicílio,NA
+12,AC,2010,8,2010-08-25,1954-02-15,Masculino,NA,NA,NA,NA,NA,NA,Rio Branco,X700,X700,Domicílio,NA
+13,AC,2010,10,2010-10-08,1971-12-25,Feminino,NA,NA,NA,Casado/a,NA,NA,Rio Branco,X699,X699,Domicílio,Não
+14,AC,2010,10,2010-10-22,NA,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,Rio Branco,X709,X709,Domicílio,NA
+15,AC,2010,10,2010-10-18,1984-10-06,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,Porto Acre,X740,X740,Outros,NA
+16,AC,2010,10,2010-10-25,1995-09-14,Masculino,Branca,NA,NA,Solteiro/a,NA,NA,Rio Branco,X749,X749,Domicílio,Não
+17,AC,2010,5,2010-05-11,1948-12-21,Masculino,Branca,NA,NA,Solteiro/a,NA,APOSENTADO/PENSIONISTA,Rio Branco,X629,R98,Domicílio,NA
+18,AC,2010,1,2010-01-15,1995-12-31,Feminino,Amarela,NA,NA,Solteiro/a,NA,ESTUDANTE,Rio Branco,X689,X689,Hospital,Não
+19,AC,2010,3,2010-03-18,1981-07-06,Masculino,NA,NA,NA,NA,NA,NA,Rio Branco,X709,X709,Domicílio,NA
+20,AC,2010,3,2010-03-19,1987-08-06,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,ESTUDANTE,Rio Branco,X700,X700,Domicílio,Não
+21,AC,2010,3,2010-03-25,1972-09-16,Masculino,NA,NA,NA,NA,NA,NA,Rio Branco,X700,X700,Via pública,Não
+22,AC,2010,4,2010-04-23,1975-01-12,Feminino,Parda,NA,NA,NA,NA,NA,Rio Branco,X609,X609,Hospital,NA
+23,AC,2010,1,2010-01-11,1982-01-23,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Cruzeiro do Sul,X702,X702,Outros,NA
+24,AC,2010,7,2010-07-10,1966-11-05,Masculino,Parda,NA,NA,Casado/a,NA,NA,Rio Branco,X709,X709,Domicílio,NA
+25,AC,2010,5,2010-05-04,1987-12-08,Masculino,Preta,NA,NA,Solteiro/a,NA,NA,Rio Branco,X700,X700,Domicílio,NA
+26,AC,2010,5,2010-05-12,1971-12-30,Masculino,Parda,NA,NA,NA,NA,NA,Rio Branco,X709,X709,Via pública,NA
+27,AC,2010,7,2010-07-31,1978-07-27,Masculino,Parda,NA,NA,NA,NA,NA,Senador Guiomard,X700,X700,Domicílio,NA
+28,AC,2010,8,2010-08-13,1971-05-28,Masculino,Parda,NA,NA,NA,NA,NA,Rio Branco,X700,X700,Domicílio,NA
+29,AC,2010,6,2010-06-20,1995-08-23,Feminino,Parda,NA,NA,Solteiro/a,NA,NA,Rio Branco,X689,X689,Hospital,Não
+30,AC,2010,8,2010-08-26,1979-01-31,Masculino,NA,NA,NA,NA,NA,NA,Rio Branco,X629,R98,Domicílio,NA
+31,AC,2010,6,2010-06-16,1925-10-10,Masculino,Branca,NA,NA,Solteiro/a,NA,NA,Porto Acre,X700,X700,Domicílio,NA
+32,AC,2010,6,2010-06-25,1949-03-15,Masculino,Parda,NA,NA,NA,NA,NA,Rio Branco,X700,X700,Domicílio,Não
+33,AC,2010,6,2010-06-28,1979-10-18,Masculino,NA,NA,NA,Casado/a,Nenhuma,NA,Plácido de Castro,X700,X700,Outros,NA
+34,AC,2010,7,2010-07-08,1965-02-16,Masculino,Parda,NA,NA,Solteiro/a,Nenhuma,APOSENTADO/PENSIONISTA,Rio Branco,X700,X700,Domicílio,Não
+35,AC,2010,1,2010-01-21,1988-05-20,Masculino,Branca,NA,NA,Solteiro/a,12 e mais,ESTUDANTE,Rio Branco,X800,Y349,Outros,NA
+36,AC,2010,12,2010-12-29,1987-11-25,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Cruzeiro do Sul,X629,X629,Hospital,NA
+37,AC,2010,11,2010-11-08,1971-05-15,Feminino,NA,NA,NA,NA,NA,NA,Rio Branco,X709,X709,Domicílio,NA
+38,AC,2010,11,2010-11-21,1984-12-26,Feminino,NA,NA,NA,NA,NA,NA,Rio Branco,X709,X709,Domicílio,NA
+39,AC,2010,11,2010-11-24,1983-09-24,Feminino,Parda,NA,NA,Viúvo/a,8 a 11 anos,NA,Rio Branco,X709,X709,Domicílio,NA
+40,AC,2010,11,2010-11-26,1991-02-03,Masculino,NA,NA,NA,NA,NA,NA,Rio Branco,X709,X709,Domicílio,NA
+41,AC,2010,12,2010-12-07,1983-10-22,Masculino,Branca,NA,NA,NA,NA,NA,Rio Branco,X709,X709,Domicílio,NA
+42,AL,2010,1,2010-01-23,1965-10-01,Masculino,Parda,NA,NA,Casado/a,4 a 7 anos,NA,Santana do Ipanema,X709,X709,Domicílio,NA
+43,AL,2010,1,2010-01-20,NA,Masculino,NA,NA,NA,NA,NA,NA,Marechal Deodoro,X709,X709,Outros,NA
+44,AL,2010,2,2010-02-14,1985-05-05,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Major Isidoro,X709,X709,Domicílio,NA
+45,AL,2010,3,2010-03-04,1972-12-25,Feminino,Parda,NA,NA,NA,NA,REPRESENTANTE COMERCIAL AUTONOMO,Arapiraca,X709,X709,Hospital,Não
+46,AL,2010,2,2010-02-15,1979-07-31,Masculino,Parda,NA,NA,Solteiro/a,NA,APOSENTADO/PENSIONISTA,Maceió,X718,X718,Hospital,NA
+47,AL,2010,2,2010-02-06,1993-03-12,Feminino,Parda,NA,NA,Solteiro/a,NA,ESTUDANTE,Atalaia,X700,X700,Via pública,Não
+48,AL,2010,2,2010-02-03,1986-05-31,Masculino,NA,NA,NA,Solteiro/a,NA,ESTUDANTE,Maceió,X750,X750,Domicílio,NA
+49,AL,2010,2,2010-02-04,1957-04-16,Feminino,Parda,NA,NA,Solteiro/a,NA,DONA DE CASA,Maceió,X649,X649,Hospital,NA
+50,AL,2010,1,2010-01-17,1936-12-16,Masculino,Parda,NA,NA,Casado/a,NA,APOSENTADO/PENSIONISTA,Maceió,X649,X649,Domicílio,NA
+51,AL,2010,5,2010-05-21,1965-08-21,Feminino,Parda,NA,NA,Casado/a,NA,TRABALHADOR AGROPECUARIO EM GERAL,Maribondo,X709,X709,Domicílio,Não
+52,AL,2010,5,2010-05-17,1978-02-26,Masculino,Parda,NA,NA,Solteiro/a,NA,PESCADOR ARTESANAL DE AGUA DOCE,Maceió,X709,X709,Domicílio,NA
+53,AL,2010,5,2010-05-24,NA,Masculino,Branca,NA,NA,Solteiro/a,NA,NA,Maceió,X640,X640,Domicílio,Não
+54,AL,2010,2,2010-02-27,4198-10-02,Feminino,NA,NA,NA,NA,NA,DONA DE CASA,Maceió,X649,X649,Hospital,NA
+55,AL,2010,3,2010-03-01,1983-05-21,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,Maceió,X709,X709,Via pública,NA
+56,AL,2010,3,2010-03-14,1975-07-07,Masculino,NA,NA,NA,NA,NA,NA,Maceió,X709,X709,Outros,NA
+57,AL,2010,2,2010-02-28,1993-07-26,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,ESTUDANTE,São Brás,X709,X709,Domicílio,NA
+58,AL,2010,3,2010-03-19,1974-12-16,Feminino,Parda,NA,NA,Casado/a,4 a 7 anos,NA,Palmeira Dos Índios,X689,X689,Hospital,NA
+59,AL,2010,3,2010-03-19,1967-04-30,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,"PROFESSOR DA EDUCACAO DO ENSINO FUNDAMENTAL ",Dois Riachos,X709,X709,Via pública,NA
+60,AL,2010,3,2010-03-20,1976-05-26,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,Maceió,X709,X709,Via pública,Não
+61,AL,2010,3,2010-03-22,1984-06-15,Feminino,Parda,NA,NA,Casado/a,NA,APOSENTADO/PENSIONISTA,Coruripe,X649,X649,Outros,NA
+62,AL,2010,3,2010-03-22,1966-06-09,Masculino,NA,NA,NA,NA,NA,NA,Pilar,X709,X709,Domicílio,NA
+63,AL,2010,4,2010-04-04,1983-11-30,Feminino,NA,NA,NA,Casado/a,NA,NA,Maceió,X649,R092,Hospital,Não
+64,AL,2010,4,2010-04-06,1968-03-30,Masculino,Parda,NA,NA,Solteiro/a,NA,REPRESENTANTE COMERCIAL AUTONOMO,Satuba,X804,X804,Via pública,Não
+65,AL,2010,4,2010-04-05,1992-04-05,Feminino,NA,NA,NA,NA,NA,ESTUDANTE,Coruripe,X649,X649,Outros,NA
+66,AL,2010,4,2010-04-06,1995-12-04,Feminino,Parda,NA,NA,Solteiro/a,NA,NA,Maceió,X689,X689,Hospital,NA
+67,AL,2010,4,2010-04-14,1988-04-29,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,Maceió,X700,X700,Domicílio,NA
+68,AL,2010,6,2010-06-10,1975-03-20,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,Jacuípe,X719,X719,Domicílio,NA
+69,AL,2010,6,2010-06-09,1992-07-31,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,Maceió,X709,X709,Domicílio,NA
+70,AL,2010,7,2010-07-21,1992-06-11,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,Marechal Deodoro,X709,X709,Domicílio,NA
+71,AL,2010,7,2010-07-10,1957-07-02,Masculino,NA,NA,NA,NA,NA,NA,Coruripe,X749,X749,Domicílio,Não
+72,AL,2010,7,2010-07-14,1974-07-25,Feminino,Parda,NA,NA,NA,NA,DONA DE CASA,Maceió,X649,X649,Hospital,NA
+73,AL,2010,7,2010-07-19,1958-11-20,Masculino,NA,NA,NA,Casado/a,NA,PINTOR DE VEICULOS (REPARACAO),Maceió,X769,X769,Hospital,NA
+74,AL,2010,7,2010-07-17,NA,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,São Sebastião,X689,X689,Domicílio,NA
+75,AL,2010,7,2010-07-07,1989-09-08,Masculino,Parda,NA,NA,Solteiro/a,NA,BORRACHEIRO,Arapiraca,X709,X709,Hospital,Não
+76,AL,2010,7,2010-07-08,1981-07-25,Feminino,NA,NA,NA,Solteiro/a,NA,DONA DE CASA,Arapiraca,X700,X700,Domicílio,Não
+77,AL,2010,7,2010-07-11,1994-03-30,Masculino,Parda,NA,NA,Solteiro/a,NA,ESTUDANTE,Arapiraca,X700,X700,Domicílio,Não
+78,AL,2010,9,2010-09-11,1981-05-16,Masculino,NA,NA,NA,Viúvo/a,NA,REPRESENTANTE COMERCIAL AUTONOMO,Arapiraca,X704,X704,Via pública,NA
+79,AL,2010,9,2010-09-12,1964-04-05,Masculino,Parda,NA,NA,Casado/a,1 a 3 anos,NA,Arapiraca,X704,X704,Via pública,Não
+80,AL,2010,7,2010-07-31,1976-04-05,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,Maceió,X709,X709,Outros,Não
+81,AL,2010,8,2010-08-11,1974-08-30,Masculino,NA,NA,NA,NA,NA,NA,Maceió,X700,X700,Domicílio,NA
+82,AL,2010,8,2010-08-11,1974-10-11,Masculino,NA,NA,NA,NA,NA,GARCOM,Maceió,X709,X709,Domicílio,NA
+83,AL,2010,8,2010-08-04,1935-05-10,Masculino,Parda,NA,NA,Casado/a,NA,NA,Maceió,X700,X700,Domicílio,NA
+84,AL,2010,7,2010-07-29,1988-06-17,Masculino,Parda,NA,NA,Solteiro/a,NA,GARI,Marechal Deodoro,X709,X709,Domicílio,Não
+85,AL,2010,8,2010-08-10,1994-12-11,Masculino,Branca,NA,NA,NA,NA,ESTUDANTE,Pilar,X709,X709,Domicílio,Não
+86,AL,2010,8,2010-08-09,1984-07-23,Masculino,NA,NA,NA,Solteiro/a,NA,GARCOM,Maceió,X649,X649,Hospital,NA
+87,AL,2010,8,2010-08-24,1983-09-01,Masculino,Parda,NA,NA,Casado/a,4 a 7 anos,NA,Arapiraca,X689,X689,Hospital,NA
+88,AL,2010,9,2010-09-03,NA,Feminino,Parda,NA,NA,Casado/a,4 a 7 anos,NA,Palmeira Dos Índios,X700,X700,Domicílio,Não
+89,AL,2010,9,2010-09-07,1963-11-01,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Arapiraca,X709,X709,Domicílio,NA
+90,AL,2010,7,2010-07-31,NA,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Penedo,X769,X769,Domicílio,NA
+91,AL,2010,9,2010-09-05,1951-06-26,Masculino,Parda,NA,NA,Separado/a judicialmente,NA,NA,Maceió,X749,X749,Hospital,NA
+92,AL,2010,9,2010-09-05,1989-02-01,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,Ibateguara,X700,X700,Domicílio,NA
+93,AL,2010,11,2010-11-11,1951-01-12,Masculino,Parda,NA,NA,NA,NA,NA,Feira Grande,X700,X700,Domicílio,Não
+94,AL,2010,11,2010-11-21,1985-02-21,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Arapiraca,X709,X709,Hospital,NA
+95,AL,2010,11,2010-11-24,1934-04-30,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,Batalha,X700,X700,Domicílio,Não
+96,AL,2010,11,2010-11-26,NA,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,Maceió,X649,X649,Domicílio,Não
+97,AL,2010,12,2010-12-04,1971-09-14,Feminino,NA,NA,NA,Solteiro/a,NA,DONA DE CASA,Maceió,X640,X640,Domicílio,Não
+98,AL,2010,12,2010-12-07,1986-04-30,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,São Miguel Dos Campos,X700,X700,Domicílio,NA
+99,AL,2010,11,2010-11-28,1991-12-21,Masculino,Parda,NA,NA,Solteiro/a,NA,ESTUDANTE,Maceió,X709,X709,Outro estabelecimento de saúde,Não
+100,AL,2010,4,2010-04-16,NA,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Pariconha,X709,X709,Via pública,Não
+101,AL,2010,4,2010-04-12,NA,Feminino,Parda,NA,NA,Solteiro/a,4 a 7 anos,DONA DE CASA,Teotônio Vilela,X769,X769,Hospital,NA
+102,AL,2010,7,2010-07-19,5198-10-03,Masculino,Parda,NA,NA,Casado/a,4 a 7 anos,NA,Igaci,X689,X689,Hospital,NA
+103,AL,2010,4,2010-04-30,1992-11-24,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,ESTUDANTE,Junqueiro,X689,X689,Hospital,NA
+104,AL,2010,5,2010-05-27,1971-06-28,Masculino,Parda,NA,NA,Casado/a,NA,REPRESENTANTE COMERCIAL AUTONOMO,Arapiraca,X640,X640,Hospital,Não
+105,AL,2010,5,2010-05-30,NA,Masculino,Parda,NA,NA,Solteiro/a,NA,LOCALIZADOR (COBRADOR),Igaci,X700,X700,Domicílio,Não
+106,AL,2010,6,2010-06-21,1962-07-29,Masculino,Parda,NA,NA,Casado/a,4 a 7 anos,NA,São Brás,X709,X709,Domicílio,NA
+107,AL,2010,10,2010-10-08,1965-12-29,Masculino,Parda,NA,NA,Casado/a,4 a 7 anos,NA,Arapiraca,X709,X709,Domicílio,NA
+108,AL,2010,9,2010-09-26,1969-07-19,Masculino,Parda,NA,NA,Casado/a,NA,PRODUTOR AGRICOLA POLIVALENTE,Maceió,X809,X809,Outros,NA
+109,AL,2010,9,2010-09-29,NA,Masculino,Branca,NA,NA,NA,NA,NA,Arapiraca,X709,X709,Outros,NA
+110,AL,2010,9,2010-09-21,1985-07-29,Masculino,NA,NA,NA,Solteiro/a,1 a 3 anos,NA,Traipu,X700,X700,Via pública,Não
+111,AL,2010,12,2010-12-07,0199-11-01,Masculino,NA,NA,NA,Solteiro/a,NA,NA,Santana do Ipanema,X700,X700,Domicílio,NA
+112,AL,2010,12,2010-12-03,1979-10-10,Masculino,Parda,NA,NA,Solteiro/a,NA,APOSENTADO/PENSIONISTA,Penedo,X680,X680,Domicílio,NA
+113,AL,2010,12,2010-12-10,1976-07-09,Feminino,Parda,NA,NA,Separado/a judicialmente,NA,DONA DE CASA,Palmeira Dos Índios,X700,X700,Domicílio,NA
+114,AL,2010,12,2010-12-10,1944-10-10,Feminino,Parda,NA,NA,NA,NA,NA,São José da Tapera,X698,X698,Outros,NA
+115,AL,2010,12,2010-12-13,1946-02-16,Masculino,Parda,NA,NA,Casado/a,NA,NA,Feira Grande,X709,X709,Hospital,NA
+116,AL,2010,12,2010-12-21,0196-01-02,Feminino,Parda,NA,NA,Casado/a,NA,NA,Feira Grande,X700,X700,Domicílio,NA
+117,AL,2010,1,2010-01-20,1993-09-03,Feminino,Parda,NA,NA,Solteiro/a,NA,ESTUDANTE,Maceió,X649,X649,Hospital,NA
+118,AL,2010,12,2010-12-17,NA,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,Maceió,X704,X704,Via pública,NA
+119,AL,2010,12,2010-12-31,1963-10-08,Masculino,NA,NA,NA,NA,NA,NA,Arapiraca,X689,X689,Hospital,NA
+120,AL,2010,10,2010-10-22,NA,Feminino,Parda,NA,NA,Casado/a,8 a 11 anos,DONA DE CASA,Arapiraca,X689,X689,Hospital,NA
+121,AL,2010,10,2010-10-23,1992-12-07,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,ESTUDANTE,Teotônio Vilela,X709,X709,Domicílio,NA
+122,AL,2010,10,2010-10-27,1991-04-04,Masculino,Branca,NA,NA,Solteiro/a,8 a 11 anos,NA,Senador Rui Palmeira,X740,X740,Domicílio,NA
+123,AL,2010,10,2010-10-21,1983-08-08,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,Maceió,X649,X649,Via pública,NA
+124,AL,2010,10,2010-10-22,1989-05-20,Masculino,Parda,NA,NA,NA,NA,ESTUDANTE,Cajueiro,X680,X680,Domicílio,NA
+125,AL,2010,10,2010-10-12,NA,Feminino,Parda,NA,NA,Solteiro/a,NA,DONA DE CASA,Matriz de Camaragibe,X649,X649,Hospital,NA
+126,AL,2010,5,2010-05-02,1993-11-23,Feminino,Parda,NA,NA,NA,NA,ESTUDANTE,São Luís do Quitunde,X649,X649,Hospital,NA
+127,AP,2010,9,2010-09-10,1976-12-24,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Macapá,X749,X749,Outros,NA
+128,AP,2010,7,2010-07-04,1997-04-14,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Calçoene,X700,X700,Domicílio,Não
+129,AP,2010,7,2010-07-03,1987-10-22,Masculino,Indígena,NA,NA,Solteiro/a,4 a 7 anos,CASEIRO (AGRICULTURA),Oiapoque,X709,X70,Domicílio,Não
+130,AP,2010,1,2010-01-03,1973-10-11,Feminino,Parda,NA,NA,Solteiro/a,8 a 11 anos,DONA DE CASA,Macapá,X709,X709,Domicílio,Não
+131,AP,2010,1,2010-01-04,1977-01-14,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,GARIMPEIRO,Oiapoque,X729,X729,Hospital,NA
+132,AP,2010,1,2010-01-07,1965-10-24,Feminino,Parda,NA,NA,Casado/a,8 a 11 anos,DONA DE CASA,Santana,X700,X700,Domicílio,NA
+133,AP,2010,1,2010-01-11,1988-03-04,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,CASEIRO (AGRICULTURA),Macapá,X709,X709,Domicílio,Não
+134,AP,2010,1,2010-01-23,1985-07-01,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,EMPREGADO DOMESTICO NOS SERVICOS GERAIS,Macapá,X709,X709,Domicílio,Não
+135,AP,2010,1,2010-01-25,1934-07-26,Masculino,Parda,NA,NA,Casado/a,1 a 3 anos,APOSENTADO/PENSIONISTA,Macapá,X709,X709,Domicílio,Não
+136,AP,2010,1,2010-01-26,1935-04-20,Masculino,Parda,NA,NA,Solteiro/a,Nenhuma,NA,Macapá,X700,X700,Outros,NA
+137,AP,2010,1,2010-01-30,1977-11-07,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,CARPINTEIRO,Macapá,X709,X709,Domicílio,Não
+138,AP,2010,2,2010-02-04,1989-09-06,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,NA,Santana,X700,X700,Domicílio,Não
+139,AP,2010,3,2010-03-28,1975-09-12,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Laranjal do Jari,X728,X728,Outros,Não
+140,AP,2010,4,2010-04-25,1994-12-11,Feminino,Parda,NA,NA,Solteiro/a,4 a 7 anos,ESTUDANTE,Calçoene,X699,X699,Outro estabelecimento de saúde,NA
+141,AP,2010,3,2010-03-28,1959-05-05,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Macapá,X709,X709,Domicílio,Não
+142,AP,2010,4,2010-04-16,1988-05-01,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,EMPREGADO DOMESTICO NOS SERVICOS GERAIS,Macapá,X709,X709,Domicílio,Não
+143,AP,2010,6,2010-06-26,1986-12-16,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Macapá,X709,X709,Outros,Não
+144,AP,2010,8,2010-08-23,1943-01-02,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,APOSENTADO/PENSIONISTA,Macapá,X709,X709,Domicílio,NA
+145,AP,2010,8,2010-08-28,1973-05-24,Masculino,NA,NA,NA,NA,4 a 7 anos,DONA DE CASA,Macapá,X709,X709,Domicílio,Não
+146,AP,2010,7,2010-07-12,1955-11-05,Masculino,Parda,NA,NA,Solteiro/a,NA,TRABALHADOR AGROPECUARIO EM GERAL,Santana,X700,X700,Domicílio,NA
+147,AP,2010,7,2010-07-16,1994-03-28,Feminino,Parda,NA,NA,Solteiro/a,4 a 7 anos,ESTUDANTE,Amapá,X709,X709,Domicílio,Não
+148,AP,2010,9,2010-09-26,1992-05-06,Feminino,Parda,NA,NA,Solteiro/a,4 a 7 anos,ESTUDANTE,Amapá,X709,X709,Domicílio,NA
+149,AP,2010,10,2010-10-04,1981-03-06,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Macapá,X709,X709,Domicílio,NA
+150,AP,2010,10,2010-10-27,1994-10-30,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,ESTUDANTE,Macapá,X709,X709,Domicílio,NA
+151,AP,2010,11,2010-11-03,1978-10-24,Masculino,Parda,NA,NA,Solteiro/a,Nenhuma,APOSENTADO/PENSIONISTA,Santana,X700,X700,Domicílio,NA
+152,AP,2010,11,2010-11-05,1989-07-05,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,ESTUDANTE,Macapá,X709,X709,Domicílio,NA
+153,AP,2010,11,2010-11-13,1985-06-10,Feminino,Branca,NA,NA,Solteiro/a,8 a 11 anos,NA,Macapá,X709,X709,Domicílio,NA
+154,AP,2010,11,2010-11-14,1994-03-11,Masculino,Parda,NA,NA,Solteiro/a,NA,ESTUDANTE,Macapá,X709,X709,Hospital,NA
+155,AP,2010,12,2010-12-13,NA,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,NA,Macapá,X709,X709,Outros,NA
+156,AP,2010,12,2010-12-31,1993-04-17,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,Macapá,X709,X709,Outros,NA
+157,AM,2010,5,2010-05-22,1991-04-30,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,Japurá,X700,X700,Domicílio,NA
+158,AM,2010,11,2010-11-13,1991-05-14,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,ESTUDANTE,Japurá,X700,X700,Domicílio,Não
+159,AM,2010,7,2010-07-13,NA,Feminino,Parda,NA,NA,Solteiro/a,8 a 11 anos,NA,Boca do Acre,X690,X690,Hospital,NA
+160,AM,2010,9,2010-09-13,1987-05-04,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Anamã,X709,X709,Domicílio,Não
+161,AM,2010,8,2010-08-10,NA,Masculino,Indígena,NA,NA,Solteiro/a,Nenhuma,CASEIRO (AGRICULTURA),São Gabriel da Cachoeira,X699,X699,Domicílio,Não
+162,AM,2010,6,2010-06-13,1994-11-21,Feminino,Indígena,NA,NA,Solteiro/a,4 a 7 anos,CASEIRO (AGRICULTURA),São Gabriel da Cachoeira,X699,X699,Domicílio,Não
+163,AM,2010,8,2010-08-10,1984-02-23,Masculino,Indígena,NA,NA,Solteiro/a,1 a 3 anos,PRODUTOR AGRICOLA POLIVALENTE,Amaturá,X844,X844,Outros,Não
+164,AM,2010,5,2010-05-10,1989-03-04,Masculino,Indígena,NA,NA,Solteiro/a,8 a 11 anos,CASEIRO (AGRICULTURA),São Gabriel da Cachoeira,X699,X699,NA,Não
+165,AM,2010,6,2010-06-04,1951-02-17,Masculino,Parda,NA,NA,Casado/a,Nenhuma,NA,Japurá,X689,X689,Outros,NA
+166,AM,2010,2,2010-02-17,NA,Masculino,Parda,NA,NA,Solteiro/a,NA,ESTUDANTE,Japurá,X700,X700,Domicílio,NA
+167,AM,2010,11,2010-11-14,1964-02-29,Masculino,Parda,NA,NA,Casado/a,Nenhuma,APOSENTADO/PENSIONISTA,Envira,X730,X730,Domicílio,Não
+168,AM,2010,12,2010-12-21,1955-12-01,Masculino,Branca,NA,NA,Casado/a,Nenhuma,NA,Envira,X748,X748,Outros,Não
+169,AM,2010,8,2010-08-02,1991-10-15,Masculino,Indígena,NA,NA,Solteiro/a,4 a 7 anos,CASEIRO (AGRICULTURA),São Gabriel da Cachoeira,X699,X699,Domicílio,Não
+170,AM,2010,5,2010-05-09,1983-10-13,Masculino,Indígena,NA,NA,Solteiro/a,8 a 11 anos,CASEIRO (AGRICULTURA),São Gabriel da Cachoeira,X700,X700,Domicílio,Não
+171,AM,2010,5,2010-05-22,1987-11-10,Masculino,Indígena,NA,NA,Solteiro/a,4 a 7 anos,CASEIRO (AGRICULTURA),São Gabriel da Cachoeira,X690,X690,Domicílio,Não
+172,AM,2010,3,2010-03-06,1979-12-25,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,PESCADOR ARTESANAL DE AGUA DOCE,Santo Antônio do Içá,X708,X708,Domicílio,Não
+173,AM,2010,11,2010-11-03,1994-11-11,Masculino,Indígena,NA,NA,Solteiro/a,4 a 7 anos,ESTUDANTE,São Paulo de Olivença,X700,X700,Domicílio,Não
+174,AM,2010,2,2010-02-14,1982-06-27,Masculino,Parda,NA,NA,Casado/a,4 a 7 anos,PRODUTOR AGRICOLA POLIVALENTE,Itapiranga,X700,X700,Domicílio,Não
+175,AM,2010,4,2010-04-25,1992-01-06,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Borba,X700,X700,Domicílio,Não
+176,AM,2010,12,2010-12-14,NA,Feminino,Indígena,NA,NA,Solteiro/a,1 a 3 anos,CASEIRO (AGRICULTURA),São Gabriel da Cachoeira,X700,X700,Domicílio,Não
+177,AM,2010,9,2010-09-08,1963-09-16,Masculino,Indígena,NA,NA,Casado/a,NA,NA,São Gabriel da Cachoeira,X700,X700,Domicílio,Não
+178,AM,2010,1,2010-01-26,1987-05-13,Masculino,Indígena,NA,NA,Casado/a,4 a 7 anos,CASEIRO (AGRICULTURA),São Gabriel da Cachoeira,X700,X700,Domicílio,Não
+179,AM,2010,12,2010-12-04,1985-11-23,Feminino,Indígena,NA,NA,Solteiro/a,8 a 11 anos,NA,São Gabriel da Cachoeira,X700,X700,Domicílio,Não
+180,AM,2010,6,2010-06-02,1961-06-29,Masculino,Parda,NA,NA,Casado/a,1 a 3 anos,APOSENTADO/PENSIONISTA,Envira,X701,X701,Outros,Não
+181,AM,2010,1,2010-01-06,1982-07-14,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,REPRESENTANTE COMERCIAL AUTONOMO,Manaus,X804,X804,Via pública,NA
+182,AM,2010,1,2010-01-06,1994-09-28,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,ESTUDANTE,Manaus,X700,X700,Domicílio,NA
+183,AM,2010,1,2010-01-13,1993-04-06,Masculino,Parda,NA,NA,Viúvo/a,NA,NA,Manaus,X700,X700,Domicílio,NA
+184,AM,2010,1,2010-01-17,1982-09-18,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Manaus,X700,X700,Domicílio,NA
+185,AM,2010,1,2010-01-21,1942-05-29,Feminino,Parda,NA,NA,Casado/a,1 a 3 anos,DONA DE CASA,Manaus,X720,X720,Hospital,Não
+186,AM,2010,1,2010-01-26,1967-11-16,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,APOSENTADO/PENSIONISTA,Manaus,X700,X700,Domicílio,NA
+187,AM,2010,2,2010-02-14,NA,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,VENDEDOR AMBULANTE,Manaus,X700,X700,Domicílio,NA
+188,AM,2010,2,2010-02-16,1984-05-25,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,NA,Manaus,X700,X700,Domicílio,NA
+189,AM,2010,2,2010-02-19,1969-06-16,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Manaus,X700,X700,Domicílio,Não
+190,AM,2010,2,2010-02-19,NA,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Manaus,X700,X700,Outros,Não
+191,AM,2010,2,2010-02-20,1953-11-10,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,APOSENTADO/PENSIONISTA,Manaus,X700,X700,Domicílio,NA
+192,AM,2010,2,2010-02-22,1971-09-29,Masculino,Parda,NA,NA,Casado/a,4 a 7 anos,CONFERENTE DE CARGA E DESCARGA,Manaus,X700,X700,Outros,NA
+193,AM,2010,3,2010-03-05,NA,Feminino,Parda,NA,NA,Solteiro/a,NA,NA,Manaus,X740,X740,Domicílio,Não
+194,AM,2010,4,2010-04-24,1975-11-19,Feminino,Branca,NA,NA,Solteiro/a,8 a 11 anos,DONA DE CASA,Parintins,X700,X700,Domicílio,Não
+195,AM,2010,7,2010-07-07,1979-10-20,Feminino,Branca,NA,NA,Casado/a,8 a 11 anos,NA,Parintins,X689,X689,Hospital,Não
+196,AM,2010,2,2010-02-28,1992-03-13,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,ESTUDANTE,Benjamin Constant,X700,X700,Domicílio,Não
+197,AM,2010,3,2010-03-08,1984-12-30,Masculino,NA,NA,NA,Solteiro/a,4 a 7 anos,NA,Manaus,X700,X700,Hospital,NA
+198,AM,2010,4,2010-04-26,1994-09-08,Masculino,Indígena,NA,NA,Solteiro/a,Nenhuma,CASEIRO (AGRICULTURA),São Gabriel da Cachoeira,X700,X700,Domicílio,Não
+199,AM,2010,3,2010-03-22,1974-01-03,Masculino,Indígena,NA,NA,Solteiro/a,NA,PESCADOR ARTESANAL DE AGUA DOCE,São Gabriel da Cachoeira,X700,X700,Domicílio,Não
+200,AM,2010,5,2010-05-30,1994-12-15,Feminino,Indígena,NA,NA,Solteiro/a,8 a 11 anos,ESTUDANTE,São Gabriel da Cachoeira,X700,X700,Domicílio,Não
+201,AM,2010,10,2010-10-05,1994-04-21,Feminino,Parda,NA,NA,Solteiro/a,8 a 11 anos,ESTUDANTE,Lábrea,X718,X718,Outros,NA
+202,AM,2010,2,2010-02-20,1989-09-03,Masculino,Indígena,NA,NA,Solteiro/a,1 a 3 anos,PRODUTOR AGRICOLA POLIVALENTE,Tabatinga,X700,X700,Domicílio,Não
+203,AM,2010,4,2010-04-05,1993-08-01,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,ESTUDANTE,Barcelos,X700,X700,Domicílio,Não
+204,AM,2010,6,2010-06-20,1989-07-19,Masculino,Preta,NA,NA,Solteiro/a,4 a 7 anos,NA,Humaitá,X740,X740,Via pública,Não
+205,AM,2010,3,2010-03-13,1985-07-05,Masculino,Parda,NA,4 a 7 anos,Solteiro/a,4 a 7 anos,SOLDADOR,Manaus,X700,X700,Domicílio,NA
+206,AM,2010,3,2010-03-16,NA,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,ESTUDANTE,Manaus,X700,X700,Hospital,Não
+207,AM,2010,3,2010-03-31,1995-05-06,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,ESTUDANTE,Manaus,X700,X700,Hospital,NA
+208,AM,2010,4,2010-04-01,1992-01-12,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,ESTUDANTE,Manaus,X700,X700,Domicílio,NA
+209,AM,2010,3,2010-03-20,1936-07-28,Masculino,Parda,NA,NA,Solteiro/a,Nenhuma,APOSENTADO/PENSIONISTA,Manaus,X708,X708,Outros,NA
+210,AM,2010,4,2010-04-06,1989-01-25,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,MONTADOR DE EQUIPAMENTOS ELETRONICOS (MAQUINAS INDUSTRIAIS),Manaus,X700,X700,Hospital,Não
+211,AM,2010,4,2010-04-14,1991-02-20,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,ESTUDANTE,Manaus,X700,X700,Hospital,NA
+212,AM,2010,4,2010-04-15,1992-05-24,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,ESTUDANTE,Manaus,X700,X700,Hospital,Não
+213,AM,2010,8,2010-08-02,1991-12-08,Feminino,Parda,NA,NA,Solteiro/a,12 e mais,ESTUDANTE,Eirunepé,X680,X680,Hospital,Não
+214,AM,2010,4,2010-04-18,1969-01-19,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,REPRESENTANTE COMERCIAL AUTONOMO,Manaus,X709,X709,Domicílio,NA
+215,AM,2010,4,2010-04-20,1984-11-02,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Manaus,X709,X709,Domicílio,NA
+216,AM,2010,4,2010-04-21,1979-03-03,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,SUPERVISOR DE ALMOXARIFADO,Manaus,X709,X709,Domicílio,NA
+217,AM,2010,4,2010-04-26,1982-01-06,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,VENDEDOR AMBULANTE,Manaus,X700,X700,Domicílio,NA
+218,AM,2010,4,2010-04-30,1947-09-17,Masculino,Parda,NA,NA,Separado/a judicialmente,4 a 7 anos,NA,Manaus,X700,X700,Domicílio,Não
+219,AM,2010,5,2010-05-07,1943-07-31,Masculino,Parda,NA,NA,Casado/a,8 a 11 anos,APOSENTADO/PENSIONISTA,Manaus,X700,X700,Domicílio,NA
+220,AM,2010,5,2010-05-17,1969-04-24,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,ELETRICISTA DE INSTALACOES,Manaus,X700,X700,Domicílio,NA
+221,AM,2010,5,2010-05-18,1962-10-04,Feminino,Parda,NA,NA,Casado/a,4 a 7 anos,DONA DE CASA,Manaus,X700,X700,Domicílio,NA
+222,AM,2010,5,2010-05-28,1984-07-06,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,VENDEDOR AMBULANTE,Manaus,X700,X700,Via pública,NA
+223,AM,2010,9,2010-09-03,1988-11-21,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,"DESEMPREGADO CRONICO ",Nova Olinda do Norte,X700,X700,Domicílio,Não
+224,AM,2010,4,2010-04-18,1974-05-31,Masculino,Parda,NA,NA,NA,NA,NA,Tefé,X780,X780,Outros,Não
+225,AM,2010,4,2010-04-23,1992-11-25,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,ESTUDANTE,Tefé,X700,X700,Domicílio,Não
+226,AM,2010,9,2010-09-06,1989-03-08,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,NA,Urucará,X749,X749,Domicílio,NA
+227,AM,2010,6,2010-06-05,NA,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Manaus,X700,X700,Domicílio,Não
+228,AM,2010,6,2010-06-06,1982-05-22,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Manaus,X700,X700,Domicílio,NA
+229,AM,2010,6,2010-06-16,1943-02-25,Masculino,Parda,NA,NA,Casado/a,4 a 7 anos,APOSENTADO/PENSIONISTA,Manaus,X700,X700,Domicílio,NA
+230,AM,2010,6,2010-06-23,1962-09-13,Feminino,Parda,NA,NA,Solteiro/a,1 a 3 anos,DONA DE CASA,Manaus,X740,X740,Hospital,NA
+231,AM,2010,6,2010-06-27,1974-11-26,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Manaus,X700,X700,Hospital,NA
+232,AM,2010,7,2010-07-02,1989-10-06,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Manaus,X700,X700,Domicílio,NA
+233,AM,2010,2,2010-02-25,1974-08-24,Feminino,Indígena,NA,NA,Solteiro/a,NA,PRODUTOR AGRICOLA POLIVALENTE,Tabatinga,X700,X700,Domicílio,Não
+234,AM,2010,2,2010-02-17,1991-08-14,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,PRODUTOR AGRICOLA POLIVALENTE,Benjamin Constant,X709,X709,Domicílio,Não
+235,AM,2010,7,2010-07-22,1992-08-02,Feminino,Indígena,NA,NA,Solteiro/a,4 a 7 anos,ESTUDANTE,São Gabriel da Cachoeira,X700,X700,Domicílio,Não
+236,AM,2010,7,2010-07-13,1991-04-27,Masculino,Indígena,NA,NA,Solteiro/a,4 a 7 anos,NA,Tabatinga,X700,X700,Domicílio,Não
+237,AM,2010,8,2010-08-08,NA,Masculino,Indígena,NA,NA,Solteiro/a,Nenhuma,NA,Tabatinga,X700,X700,Domicílio,Não
+238,AM,2010,8,2010-08-08,1995-08-05,Masculino,Indígena,NA,NA,Solteiro/a,4 a 7 anos,NA,Tabatinga,X700,X700,Hospital,Não
+239,AM,2010,9,2010-09-05,NA,Masculino,Indígena,NA,NA,NA,Nenhuma,PRODUTOR AGRICOLA POLIVALENTE,Tabatinga,X700,X700,Domicílio,Não
+240,AM,2010,9,2010-09-13,1981-10-19,Masculino,Indígena,NA,NA,Solteiro/a,4 a 7 anos,PRODUTOR AGRICOLA POLIVALENTE,Tabatinga,X708,X708,Domicílio,Não
+241,AM,2010,8,2010-08-30,1992-12-31,Masculino,Indígena,NA,NA,Solteiro/a,4 a 7 anos,PRODUTOR AGRICOLA POLIVALENTE,Benjamin Constant,X700,X700,Domicílio,Não
+242,AM,2010,8,2010-08-22,1993-07-04,Feminino,Parda,NA,NA,Solteiro/a,1 a 3 anos,ESTUDANTE,Tabatinga,X700,X700,Domicílio,Não
+243,AM,2010,9,2010-09-07,1968-01-01,Masculino,Parda,NA,NA,Solteiro/a,NA,PESCADOR ARTESANAL DE AGUA DOCE,Tabatinga,X740,X740,Outros,Não
+244,AM,2010,9,2010-09-09,NA,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,APOSENTADO/PENSIONISTA,Tabatinga,X700,X700,Domicílio,Não
+245,AM,2010,9,2010-09-09,1965-11-03,Masculino,Indígena,NA,NA,Solteiro/a,4 a 7 anos,PRODUTOR AGRICOLA POLIVALENTE,Tabatinga,X708,X708,Domicílio,Não
+246,AM,2010,7,2010-07-20,1973-08-18,Masculino,Parda,NA,NA,Casado/a,4 a 7 anos,OPERADOR DE COLHEDOR FLORESTAL,Apuí,X739,X739,Domicílio,Não
+247,AM,2010,7,2010-07-05,NA,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Manaus,X700,X700,Domicílio,NA
+248,AM,2010,7,2010-07-07,1989-03-21,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Manaus,X700,X700,Domicílio,NA
+249,AM,2010,7,2010-07-09,1988-01-17,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,VENDEDOR AMBULANTE,Manaus,X700,X700,Domicílio,NA
+250,AM,2010,7,2010-07-11,1992-08-22,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,ESTUDANTE,Manacapuru,X700,X700,Domicílio,NA
+251,AM,2010,7,2010-07-14,1971-08-31,Masculino,Branca,NA,NA,Solteiro/a,4 a 7 anos,NA,Manaus,X700,X700,Hospital,NA
+252,AM,2010,7,2010-07-15,NA,Masculino,Parda,NA,NA,NA,NA,NA,Manaus,X709,X709,Via pública,NA
+253,AM,2010,7,2010-07-13,1967-06-18,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,ELETRICISTA DE INSTALACOES,Manaus,X705,X705,Outros,NA
+254,AM,2010,7,2010-07-26,1942-10-16,Masculino,Branca,NA,NA,Casado/a,1 a 3 anos,APOSENTADO/PENSIONISTA,Manaus,X700,X700,Domicílio,NA
+255,AM,2010,7,2010-07-29,1955-05-21,Masculino,Parda,NA,NA,Casado/a,4 a 7 anos,NA,Manaus,X700,X700,Domicílio,NA
+256,AM,2010,9,2010-09-10,1942-07-29,Masculino,Parda,NA,NA,Solteiro/a,NA,APOSENTADO/PENSIONISTA,Itacoatiara,X700,X700,Domicílio,NA
+257,AM,2010,11,2010-11-25,1963-07-17,Masculino,Parda,NA,NA,Casado/a,4 a 7 anos,PRODUTOR AGRICOLA POLIVALENTE,Tefé,X700,X700,Domicílio,Não
+258,AM,2010,12,2010-12-25,1996-06-11,Feminino,Indígena,NA,NA,Solteiro/a,8 a 11 anos,ESTUDANTE,São Gabriel da Cachoeira,X700,X700,Outros,Não
+259,AM,2010,12,2010-12-11,1995-09-10,Feminino,Parda,NA,NA,Solteiro/a,4 a 7 anos,ESTUDANTE,Tefé,X700,X700,Domicílio,Não
+260,AM,2010,8,2010-08-04,1965-10-22,Masculino,Parda,NA,NA,Casado/a,12 e mais,VENDEDOR AMBULANTE,Manaus,X705,X705,Outros,NA
+261,AM,2010,8,2010-08-11,1978-10-16,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,VENDEDOR AMBULANTE,Manaus,X700,X700,Domicílio,NA
+262,AM,2010,8,2010-08-12,1989-05-30,Masculino,Branca,NA,NA,Solteiro/a,4 a 7 anos,ESTUDANTE,Manaus,X704,X704,Domicílio,NA
+263,AM,2010,8,2010-08-13,1989-01-19,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,ESTUDANTE,Manaus,X700,X700,Domicílio,NA
+264,AM,2010,8,2010-08-13,1981-10-05,Feminino,Parda,NA,NA,Casado/a,8 a 11 anos,DONA DE CASA,Manaus,X700,X700,Domicílio,NA
+265,AM,2010,9,2010-09-12,1989-04-26,Masculino,Indígena,NA,NA,Solteiro/a,8 a 11 anos,PRODUTOR AGRICOLA POLIVALENTE,Santa Isabel do Rio Negro,X700,X700,Domicílio,Não
+266,AM,2010,9,2010-09-27,1991-09-25,Feminino,Parda,NA,NA,Solteiro/a,8 a 11 anos,DONA DE CASA,Eirunepé,X700,X700,Domicílio,Não
+267,AM,2010,8,2010-08-14,1977-06-10,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Manaus,X700,X700,Domicílio,NA
+268,AM,2010,8,2010-08-11,1972-06-29,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Manaus,X700,X700,Domicílio,NA
+269,AM,2010,8,2010-08-17,1961-12-12,Feminino,Parda,NA,NA,Solteiro/a,8 a 11 anos,VENDEDOR AMBULANTE,Manaus,X704,X704,Outros,Não
+270,AM,2010,8,2010-08-23,1986-09-03,Masculino,Branca,NA,NA,Solteiro/a,12 e mais,ESTUDANTE,Manaus,X700,X700,Domicílio,NA
+271,AM,2010,8,2010-08-30,1982-06-24,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Manaus,X700,X700,Domicílio,NA
+272,AM,2010,9,2010-09-06,1984-04-17,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,VENDEDOR AMBULANTE,Manaus,X700,X700,Domicílio,NA
+273,AM,2010,9,2010-09-06,1985-06-06,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,VENDEDOR AMBULANTE,Manaus,X700,X700,Domicílio,NA
+274,AM,2010,9,2010-09-07,1984-05-24,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,VENDEDOR AMBULANTE,Manaus,X700,X700,Domicílio,NA
+275,AM,2010,9,2010-09-07,1977-07-15,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Manaus,X700,X700,Domicílio,Não
+276,AM,2010,11,2010-11-29,1998-05-01,Feminino,Indígena,NA,NA,Solteiro/a,4 a 7 anos,ESTUDANTE,Benjamin Constant,X700,X700,Domicílio,Não
+277,AM,2010,9,2010-09-08,1979-06-27,Masculino,Indígena,NA,NA,Solteiro/a,4 a 7 anos,PRODUTOR AGRICOLA POLIVALENTE,Benjamin Constant,X700,X700,Domicílio,Não
+278,AM,2010,9,2010-09-10,1976-11-27,Feminino,Parda,NA,NA,Solteiro/a,8 a 11 anos,DONA DE CASA,Manaus,X700,X700,Outro estabelecimento de saúde,NA
+279,AM,2010,9,2010-09-11,1993-07-26,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,ESTUDANTE,Manaus,X700,X700,Outros,NA
+280,AM,2010,9,2010-09-12,1963-12-02,Masculino,NA,NA,NA,Solteiro/a,8 a 11 anos,NA,Manaus,X700,X700,Domicílio,NA
+281,AM,2010,9,2010-09-19,1994-03-14,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,ESTUDANTE,Manaus,X700,X700,Domicílio,Não
+282,AM,2010,10,2010-10-03,1996-07-26,Feminino,Indígena,NA,NA,Solteiro/a,4 a 7 anos,ESTUDANTE,Tabatinga,X700,X700,Domicílio,Não
+283,AM,2010,12,2010-12-17,1989-10-14,Masculino,Indígena,NA,NA,Solteiro/a,NA,PRODUTOR AGRICOLA POLIVALENTE,Tabatinga,X700,X700,Domicílio,Não
+284,AM,2010,10,2010-10-20,1984-09-11,Masculino,Indígena,NA,NA,Solteiro/a,8 a 11 anos,CASEIRO (AGRICULTURA),São Gabriel da Cachoeira,X708,X708,Outros,Não
+285,AM,2010,9,2010-09-23,1992-11-17,Feminino,Parda,NA,NA,Solteiro/a,4 a 7 anos,ESTUDANTE,Manaus,X700,X700,Domicílio,NA
+286,AM,2010,10,2010-10-23,1985-06-28,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,ESTUDANTE,Manaus,X700,X700,Domicílio,NA
+287,AM,2010,10,2010-10-25,1976-09-08,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,VENDEDOR AMBULANTE,Manaus,X700,X700,Outro estabelecimento de saúde,NA
+288,AM,2010,10,2010-10-30,NA,Masculino,Preta,NA,NA,Casado/a,12 e mais,NA,Manaus,X742,X742,Outros,NA
+289,AM,2010,11,2010-11-03,1986-02-12,Masculino,Parda,NA,NA,Solteiro/a,Nenhuma,VENDEDOR AMBULANTE,Manaus,X700,X700,Domicílio,NA
+290,AM,2010,11,2010-11-03,1956-12-18,Feminino,Parda,NA,NA,Casado/a,4 a 7 anos,DONA DE CASA,Manaus,X700,X700,Hospital,NA
+291,AM,2010,11,2010-11-10,1975-07-14,Feminino,Parda,NA,NA,Solteiro/a,8 a 11 anos,VENDEDOR AMBULANTE,Manaus,X640,X640,Hospital,NA
+292,AM,2010,11,2010-11-14,1971-08-22,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,COZINHEIRO GERAL,Manaus,X700,X700,Domicílio,NA
+293,AM,2010,11,2010-11-14,NA,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Rio Preto da Eva,X749,X749,Outros,NA
+294,AM,2010,11,2010-11-19,1987-02-09,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Rio Preto da Eva,X709,X709,Domicílio,NA
+295,AM,2010,11,2010-11-22,1981-01-22,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,NA,Manaus,X744,X744,Hospital,NA
+296,AM,2010,11,2010-11-23,1987-12-28,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Manaus,X700,X700,Domicílio,NA
+297,AM,2010,11,2010-11-24,1986-01-19,Feminino,Parda,NA,NA,Solteiro/a,8 a 11 anos,VENDEDOR AMBULANTE,Manaus,X700,X700,Domicílio,NA
+298,AM,2010,11,2010-11-27,1987-04-13,Feminino,Parda,NA,NA,Solteiro/a,4 a 7 anos,VENDEDOR AMBULANTE,Manaus,X700,X700,Domicílio,NA
+299,AM,2010,11,2010-11-28,1972-07-30,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Manaus,X700,X700,Domicílio,NA
+300,AM,2010,12,2010-12-02,1971-01-24,Masculino,Parda,NA,NA,Casado/a,4 a 7 anos,NA,Manaus,X700,X700,Domicílio,NA
+301,AM,2010,12,2010-12-03,1982-06-13,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,VENDEDOR AMBULANTE,Manaus,X700,X700,Domicílio,NA
+302,AM,2010,12,2010-12-10,1983-08-26,Feminino,Parda,NA,NA,Casado/a,4 a 7 anos,OPERADOR DE TELEMARKETING ATIVO,Manaus,X640,X640,Domicílio,NA
+303,AM,2010,12,2010-12-11,1976-08-25,Masculino,Branca,NA,NA,Solteiro/a,4 a 7 anos,MONTADOR DE EQUIPAMENTOS ELETRONICOS (MAQUINAS INDUSTRIAIS),Manaus,X700,X700,Domicílio,NA
+304,AM,2010,12,2010-12-11,1989-01-19,Masculino,Branca,NA,NA,Solteiro/a,4 a 7 anos,NA,Manaus,X700,X700,Hospital,NA
+305,AM,2010,12,2010-12-17,NA,Masculino,Parda,NA,NA,NA,NA,NA,Manaus,X708,X708,Outros,NA
+306,AM,2010,12,2010-12-20,1977-08-14,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,VENDEDOR AMBULANTE,Manaus,X700,X700,Domicílio,NA
+307,AM,2010,12,2010-12-20,1978-01-07,Feminino,Parda,NA,NA,Solteiro/a,4 a 7 anos,DONA DE CASA,Manaus,X700,X700,Domicílio,NA
+308,AM,2010,12,2010-12-23,NA,Masculino,Branca,NA,NA,Solteiro/a,8 a 11 anos,VENDEDOR AMBULANTE,Manaus,X700,X700,Domicílio,NA
+309,AM,2010,12,2010-12-28,1964-11-07,Feminino,Parda,NA,NA,Casado/a,8 a 11 anos,VENDEDOR AMBULANTE,Manaus,X700,X700,Domicílio,NA
+310,AM,2010,12,2010-12-29,1996-03-19,Masculino,Branca,NA,NA,Solteiro/a,1 a 3 anos,ESTUDANTE,Manaus,X700,X700,Domicílio,NA
+311,AM,2010,11,2010-11-27,1987-03-13,Feminino,Branca,NA,NA,Solteiro/a,4 a 7 anos,NA,Codajás,X700,X700,Domicílio,NA
+312,AM,2010,12,2010-12-17,1971-07-16,Masculino,Parda,NA,NA,União consensual,1 a 3 anos,NA,Codajás,X700,X700,Domicílio,NA
+313,AM,2010,12,2010-12-15,1979-07-15,Masculino,Indígena,NA,NA,NA,NA,PRODUTOR AGRICOLA POLIVALENTE,Autazes,X814,X814,Via pública,NA
+314,AM,2010,12,2010-12-24,1965-08-10,Masculino,Indígena,NA,NA,Casado/a,4 a 7 anos,PRODUTOR AGRICOLA POLIVALENTE,Benjamin Constant,X700,X700,Domicílio,NA
+315,AM,2010,11,2010-11-21,1981-07-20,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,PRODUTOR AGRICOLA POLIVALENTE,Tabatinga,X699,X699,Outros,NA
+316,AM,2010,12,2010-12-29,1998-02-03,Feminino,Indígena,NA,NA,Solteiro/a,4 a 7 anos,ESTUDANTE,Tabatinga,X700,X700,Domicílio,NA
+317,AM,2010,12,2010-12-17,1986-04-17,Masculino,Indígena,NA,NA,Solteiro/a,8 a 11 anos,PRODUTOR AGRICOLA POLIVALENTE,Tabatinga,X708,X708,Domicílio,NA
+318,AM,2010,12,2010-12-25,NA,Masculino,Indígena,NA,NA,Solteiro/a,8 a 11 anos,ESTUDANTE,São Paulo de Olivença,X708,X708,Domicílio,NA
+319,BA,2010,6,2010-06-11,1922-05-20,Feminino,Parda,NA,NA,NA,NA,APOSENTADO/PENSIONISTA,Jaguarari,X700,X700,Domicílio,NA
+320,BA,2010,12,2010-12-28,1972-01-06,Masculino,Preta,NA,NA,Solteiro/a,NA,TRABALHADOR AGROPECUARIO EM GERAL,Cabaceiras do Paraguaçu,X709,X709,Outros,NA
+321,BA,2010,1,2010-01-05,1961-12-10,Masculino,Parda,NA,NA,Viúvo/a,1 a 3 anos,APOSENTADO/PENSIONISTA,Cícero Dantas,X700,X700,Domicílio,NA
+322,BA,2010,1,2010-01-16,1932-10-02,Masculino,Parda,NA,NA,NA,1 a 3 anos,APOSENTADO/PENSIONISTA,Santana,X700,X700,Domicílio,NA
+323,BA,2010,1,2010-01-18,1966-01-31,Masculino,Branca,NA,NA,Solteiro/a,12 e mais,NA,Itapetinga,X700,X700,Domicílio,NA
+324,BA,2010,2,2010-02-21,NA,Masculino,Parda,NA,NA,Casado/a,Nenhuma,NA,Santana,X709,X709,Domicílio,NA
+325,BA,2010,12,2010-12-12,1962-12-27,Masculino,Parda,NA,NA,NA,1 a 3 anos,NA,Palmas de Monte Alto,X789,X789,Via pública,NA
+326,BA,2010,12,2010-12-10,1988-01-06,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Mortugaba,X700,X700,Domicílio,NA
+327,BA,2010,1,2010-01-01,1925-04-26,Masculino,Parda,NA,NA,Casado/a,Nenhuma,TRABALHADOR AGROPECUARIO EM GERAL,Coronel João sá,X700,X700,Domicílio,Não
+328,BA,2010,2,2010-02-01,2197-10-01,Masculino,Parda,NA,NA,Viúvo/a,Nenhuma,TRABALHADOR AGROPECUARIO EM GERAL,Campo Alegre de Lourdes,X700,X700,Domicílio,NA
+329,BA,2010,5,2010-05-28,1948-01-24,Masculino,Parda,NA,NA,Casado/a,4 a 7 anos,"MECANICO DE MANUTENCAO DE AUTOMOVEIS E MOTOCICLETAS ",Senhor do Bonfim,X700,X700,Domicílio,Não
+330,BA,2010,7,2010-07-11,1924-08-07,Masculino,Branca,NA,NA,Viúvo/a,4 a 7 anos,TRABALHADOR AGROPECUARIO EM GERAL,Campo Alegre de Lourdes,X700,X700,Domicílio,NA
+331,BA,2010,3,2010-03-13,1985-08-17,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,TRABALHADOR AGROPECUARIO EM GERAL,Tabocas do Brejo Velho,X744,X744,Via pública,NA
+332,BA,2010,4,2010-04-27,1981-03-19,Masculino,Parda,NA,NA,Solteiro/a,Nenhuma,NA,Santa Maria da Vitória,X849,X849,Outros,NA
+333,BA,2010,4,2010-04-14,1983-06-03,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Canápolis,X709,X709,Outros,NA
+334,BA,2010,10,2010-10-05,1992-07-22,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,ESTUDANTE,Mortugaba,X700,X700,Domicílio,Não
+335,BA,2010,6,2010-06-23,1966-08-15,Masculino,Parda,NA,NA,Separado/a judicialmente,4 a 7 anos,TRABALHADOR AGROPECUARIO EM GERAL,Caetité,X700,X700,Domicílio,NA
+336,BA,2010,3,2010-03-08,1963-03-04,Masculino,Parda,NA,NA,NA,1 a 3 anos,NA,Jaborandi,X709,X709,Outros,NA
+337,BA,2010,9,2010-09-09,1965-06-23,Feminino,Parda,NA,NA,Casado/a,8 a 11 anos,"PROFESSOR DA EDUCACAO DO ENSINO FUNDAMENTAL ",Ibotirama,X718,X718,Outros,Não
+338,BA,2010,2,2010-02-14,NA,Masculino,Branca,NA,NA,Casado/a,Nenhuma,NA,Paratinga,X700,X700,Outros,Não
+339,BA,2010,5,2010-05-12,1979-08-04,Feminino,Parda,NA,NA,NA,NA,TRABALHADOR AGROPECUARIO EM GERAL,Sebastião Laranjeiras,X780,X780,Domicílio,Não
+340,BA,2010,11,2010-11-20,NA,Feminino,Parda,NA,NA,NA,NA,TRABALHADOR AGROPECUARIO EM GERAL,Sebastião Laranjeiras,X739,X739,Domicílio,Não
+341,BA,2010,12,2010-12-21,1943-06-30,Masculino,Parda,NA,NA,Casado/a,NA,TRABALHADOR AGROPECUARIO EM GERAL,Sebastião Laranjeiras,X789,X789,Domicílio,NA
+342,BA,2010,12,2010-12-21,1946-08-27,Masculino,Parda,NA,NA,NA,NA,TRABALHADOR AGROPECUARIO EM GERAL,Sebastião Laranjeiras,X789,X789,Hospital,NA
+343,BA,2010,6,2010-06-24,1951-07-15,Masculino,Parda,NA,NA,Solteiro/a,Nenhuma,TRABALHADOR AGROPECUARIO EM GERAL,Ibitiara,X700,X700,Domicílio,NA
+344,BA,2010,9,2010-09-26,1924-11-02,Masculino,Branca,NA,NA,Casado/a,Nenhuma,TRABALHADOR AGROPECUARIO EM GERAL,Matina,X709,X709,Domicílio,Não
+345,BA,2010,12,2010-12-18,1964-06-07,Masculino,Parda,NA,NA,Casado/a,8 a 11 anos,NA,Candeias,X780,X994,Domicílio,Não
+346,BA,2010,3,2010-03-01,1962-01-28,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Santana,X709,X709,Via pública,NA
+347,BA,2010,2,2010-02-06,1984-12-19,Feminino,Parda,NA,NA,Solteiro/a,4 a 7 anos,VENDEDOR EM DOMICILIO,Nilo Peçanha,X690,X690,Domicílio,NA
+348,BA,2010,1,2010-01-09,1981-04-09,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,Wenceslau Guimarães,X708,X708,Outros,NA
+349,BA,2010,1,2010-01-12,1951-06-20,Masculino,Parda,NA,NA,Solteiro/a,Nenhuma,TRABALHADOR AGROPECUARIO EM GERAL,Gandu,X708,X708,Outros,Não
+350,BA,2010,1,2010-01-25,1948-04-09,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,MOTORISTA DE CARRO DE PASSEIO,Ituberá,X699,X699,Outros,Não
+351,BA,2010,2,2010-02-12,1979-10-12,Feminino,Branca,NA,NA,Casado/a,8 a 11 anos,NA,Eunápolis,X682,X682,Hospital,Não
+352,BA,2010,1,2010-01-14,1955-11-17,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,TRABALHADOR AGROPECUARIO EM GERAL,Santo Amaro,X700,X700,Domicílio,Não
+353,BA,2010,3,2010-03-05,1959-07-04,Masculino,Parda,NA,NA,NA,4 a 7 anos,NA,Valença,X709,X709,Outros,Não
+354,BA,2010,4,2010-04-12,1993-06-20,Feminino,Parda,NA,NA,Solteiro/a,NA,NA,Malhada,X749,X749,Via pública,Não
+355,BA,2010,4,2010-04-25,NA,Feminino,Branca,NA,NA,Casado/a,NA,TRABALHADOR AGROPECUARIO EM GERAL,Malhada,X785,X789,Outros,Não
+356,BA,2010,3,2010-03-10,1986-11-14,Masculino,Branca,NA,NA,Casado/a,NA,ESTUDANTE,Guanambi,X734,X734,Via pública,Não
+357,BA,2010,3,2010-03-28,1197-01-02,Masculino,NA,NA,NA,Solteiro/a,1 a 3 anos,TRABALHADOR AGROPECUARIO EM GERAL,Palmas de Monte Alto,X689,X689,Hospital,Não
+358,BA,2010,5,2010-05-04,1962-12-18,Masculino,Branca,NA,NA,Casado/a,1 a 3 anos,TRABALHADOR AGROPECUARIO EM GERAL,Carinhanha,X699,X699,Hospital,Não
+359,BA,2010,1,2010-01-22,1974-06-17,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,TRABALHADOR AGROPECUARIO EM GERAL,Alagoinhas,X689,X689,Hospital,Não
+360,BA,2010,1,2010-01-23,1968-10-17,Feminino,Branca,NA,NA,Solteiro/a,NA,NA,Catu,X689,X689,Outros,Não
+361,BA,2010,1,2010-01-26,1977-09-02,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,TRABALHADOR AGROPECUARIO EM GERAL,Maragogipe,X700,X700,Domicílio,Não
+362,BA,2010,2,2010-02-10,1975-05-29,Masculino,Parda,NA,NA,Casado/a,8 a 11 anos,TRABALHADOR AGROPECUARIO EM GERAL,Amargosa,X709,X709,Outros,Não
+363,BA,2010,2,2010-02-18,NA,Masculino,Branca,NA,NA,Casado/a,Nenhuma,TRABALHADOR AGROPECUARIO EM GERAL,Laje,X709,X709,Outros,Não
+364,BA,2010,1,2010-01-22,1964-09-25,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,Castro Alves,X709,X709,Outros,NA
+365,BA,2010,3,2010-03-20,1944-09-27,Masculino,Parda,NA,NA,Solteiro/a,Nenhuma,TRABALHADOR AGROPECUARIO EM GERAL,Wenceslau Guimarães,X709,X709,NA,NA
+366,BA,2010,1,2010-01-05,NA,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,Jaguaripe,X700,X700,Domicílio,Não
+367,BA,2010,1,2010-01-05,1982-08-30,Masculino,Preta,NA,NA,NA,NA,NA,Valença,X749,X749,Outros,Não
+368,BA,2010,3,2010-03-16,1969-04-04,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,GARCOM,Remanso,X708,X708,Outros,NA
+369,BA,2010,9,2010-09-30,NA,Masculino,Preta,NA,NA,Solteiro/a,4 a 7 anos,TRABALHADOR AGROPECUARIO EM GERAL,Abaré,X700,X700,Domicílio,Não
+370,BA,2010,12,2010-12-26,1967-05-19,Feminino,Branca,NA,NA,Solteiro/a,1 a 3 anos,DONA DE CASA,Botuporã,X700,X700,Domicílio,NA
+371,BA,2010,2,2010-02-02,1971-05-06,Masculino,Preta,NA,NA,Solteiro/a,Nenhuma,NA,Belmonte,X749,X749,Outros,NA
+372,BA,2010,2,2010-02-01,1985-07-10,Feminino,Parda,NA,NA,Solteiro/a,4 a 7 anos,DONA DE CASA,Teixeira de Freitas,X700,X700,Domicílio,Não
+373,BA,2010,2,2010-02-01,1969-07-18,Feminino,Parda,NA,NA,Solteiro/a,8 a 11 anos,NA,Mucuri,X740,X740,Domicílio,Não
+374,BA,2010,1,2010-01-16,1957-02-04,Masculino,Parda,NA,NA,Casado/a,Nenhuma,NA,Teixeira de Freitas,X780,X780,Domicílio,Não
+375,BA,2010,1,2010-01-14,1991-10-20,Feminino,Parda,NA,NA,Solteiro/a,4 a 7 anos,DONA DE CASA,Ibicaraí,X699,X699,Outros,Não
+376,BA,2010,1,2010-01-16,1984-10-29,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Coaraci,X640,X640,Domicílio,Não
+377,BA,2010,1,2010-01-04,1952-02-05,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,APOSENTADO/PENSIONISTA,Itabuna,X700,X700,Domicílio,Não
+378,BA,2010,1,2010-01-08,1973-01-09,Masculino,Preta,NA,NA,Casado/a,1 a 3 anos,TRABALHADOR AGROPECUARIO EM GERAL,Igaporã,X699,X699,Hospital,Não
+379,BA,2010,6,2010-06-09,NA,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,ESTUDANTE,Porto Seguro,X700,X700,Domicílio,Não
+380,BA,2010,9,2010-09-08,1982-02-27,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,TRABALHADOR AGROPECUARIO EM GERAL,Ibicaraí,X749,X749,Hospital,Não
+381,BA,2010,9,2010-09-11,1994-02-20,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,REPRESENTANTE COMERCIAL AUTONOMO,Camacan,X709,X709,Outros,Não
+382,BA,2010,9,2010-09-16,NA,Feminino,Parda,NA,NA,Solteiro/a,1 a 3 anos,TRABALHADOR AGROPECUARIO EM GERAL,Jaguarari,X700,X700,Domicílio,Não
+383,BA,2010,10,2010-10-24,1992-07-02,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,ESTUDANTE,Campo Formoso,X704,X704,Via pública,NA
+384,BA,2010,1,2010-01-07,1961-08-01,Masculino,Parda,NA,NA,Casado/a,4 a 7 anos,"AUXILIAR DE ESCRITORIO, EM GERAL",Coronel João sá,X689,X689,Hospital,Não
+385,BA,2010,2,2010-02-09,1963-10-11,Feminino,NA,NA,NA,Casado/a,NA,NA,Paripiranga,X699,X699,Hospital,Não
+386,BA,2010,2,2010-02-06,1979-06-18,Masculino,Parda,NA,NA,Solteiro/a,12 e mais,NA,Madre de Deus,X680,X840,Domicílio,Não
+387,BA,2010,2,2010-02-09,1982-03-28,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Monte Santo,X769,Y269,Hospital,Não
+388,BA,2010,5,2010-05-26,1985-07-04,Feminino,Branca,NA,NA,Solteiro/a,12 e mais,NA,Santo Amaro,X700,X700,Outros,Não
+389,BA,2010,4,2010-04-24,1987-08-05,Masculino,NA,NA,NA,Solteiro/a,NA,TRABALHADOR AGROPECUARIO EM GERAL,Crisópolis,X700,X700,Domicílio,Não
+390,BA,2010,5,2010-05-02,1981-03-24,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,NA,Entre Rios,X700,X700,Domicílio,Não
+391,BA,2010,4,2010-04-13,1947-11-02,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,TRABALHADOR AGROPECUARIO EM GERAL,Esplanada,X709,X709,Outros,Não
+392,BA,2010,2,2010-02-14,1979-07-01,Masculino,Preta,NA,NA,Casado/a,4 a 7 anos,NA,Rio Real,X700,X700,Domicílio,Não
+393,BA,2010,4,2010-04-20,1983-07-17,Feminino,Branca,NA,NA,Solteiro/a,8 a 11 anos,NA,Aporá,X700,X700,Domicílio,Não
+394,BA,2010,4,2010-04-21,1948-05-05,Masculino,Parda,NA,NA,Casado/a,4 a 7 anos,NA,Conde,X708,X708,Outros,Não
+395,BA,2010,3,2010-03-22,1964-09-29,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,REPRESENTANTE COMERCIAL AUTONOMO,Alagoinhas,X700,X700,Domicílio,Não
+396,BA,2010,4,2010-04-28,NA,Masculino,Parda,NA,NA,NA,NA,TRABALHADOR AGROPECUARIO EM GERAL,Camamu,X748,X748,Outros,NA
+397,BA,2010,4,2010-04-06,1982-10-01,Masculino,Parda,NA,NA,Solteiro/a,Nenhuma,NA,Valença,X642,X642,Hospital,Não
+398,BA,2010,6,2010-06-08,1968-08-09,Masculino,Preta,NA,NA,NA,Nenhuma,APOSENTADO/PENSIONISTA,Presidente Tancredo Neves,X700,X700,Domicílio,NA
+399,BA,2010,4,2010-04-15,1935-09-18,Feminino,Parda,NA,NA,Casado/a,Nenhuma,APOSENTADO/PENSIONISTA,Palmas de Monte Alto,X689,X689,Hospital,Não
+400,BA,2010,6,2010-06-19,1988-07-04,Feminino,Parda,NA,NA,Solteiro/a,12 e mais,NA,Guanambi,X689,X689,Hospital,Não
+401,BA,2010,10,2010-10-14,1951-08-17,Masculino,Branca,NA,NA,Casado/a,8 a 11 anos,TRABALHADOR AGROPECUARIO EM GERAL,Guanambi,X689,X689,Outros,Não
+402,BA,2010,12,2010-12-24,1979-01-05,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Brotas de Macaúbas,X740,X740,Domicílio,Não
+403,BA,2010,7,2010-07-22,1984-08-02,Masculino,Parda,NA,NA,NA,NA,NA,290000,X701,X701,Outros,NA
+404,BA,2010,1,2010-01-03,1986-05-07,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,TRABALHADOR AGROPECUARIO EM GERAL,Santaluz,X700,X700,Domicílio,NA
+405,BA,2010,1,2010-01-18,1945-10-11,Masculino,Parda,NA,NA,Casado/a,NA,NA,Araci,X709,X709,NA,NA
+406,BA,2010,2,2010-02-01,1939-09-02,Masculino,Preta,NA,NA,Casado/a,NA,TRABALHADOR AGROPECUARIO EM GERAL,Capela do Alto Alegre,X704,X704,Via pública,NA
+407,BA,2010,3,2010-03-20,1971-02-24,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Salvador,X688,R99,Hospital,NA
+408,BA,2010,3,2010-03-22,1958-12-24,Masculino,Branca,NA,NA,Solteiro/a,12 e mais,BIOLOGO,Salvador,X804,Y299,Hospital,NA
+409,BA,2010,3,2010-03-21,1953-05-23,Masculino,Parda,NA,NA,Casado/a,Nenhuma,NA,Coração de Maria,X748,Y248,Outros,NA
+410,BA,2010,3,2010-03-31,1974-10-21,Feminino,Parda,NA,NA,Solteiro/a,8 a 11 anos,ESTUDANTE,São Sebastião do Passé,X680,R99,Hospital,NA
+411,BA,2010,4,2010-04-03,1985-12-06,Masculino,Branca,NA,NA,Solteiro/a,8 a 11 anos,NA,Salvador,X740,X950,Domicílio,Não
+412,BA,2010,4,2010-04-05,1986-06-19,Feminino,Parda,NA,NA,Solteiro/a,NA,NA,Salvador,X769,X099,Hospital,Não
+413,BA,2010,4,2010-04-07,1985-09-17,Feminino,Parda,NA,NA,Solteiro/a,8 a 11 anos,NA,Salvador,X680,R99,Outro estabelecimento de saúde,Não
+414,BA,2010,4,2010-04-07,NA,Feminino,Branca,NA,NA,Solteiro/a,4 a 7 anos,DONA DE CASA,Camaçari,X680,R99,Hospital,Não
+415,BA,2010,4,2010-04-08,1974-05-28,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,NA,Salvador,X809,Y349,Hospital,NA
+416,BA,2010,4,2010-04-16,1975-10-29,Feminino,Parda,NA,NA,Solteiro/a,12 e mais,NA,Lauro de Freitas,X740,X740,Domicílio,Não
+417,BA,2010,1,2010-01-07,1951-07-19,Feminino,Preta,NA,NA,Casado/a,Nenhuma,NA,Gentio do Ouro,X700,X700,Domicílio,Não
+418,BA,2010,1,2010-01-05,1962-06-06,Masculino,Parda,NA,NA,Separado/a judicialmente,Nenhuma,NA,São Gabriel,X700,X700,Domicílio,NA
+419,BA,2010,2,2010-02-05,1987-05-30,Feminino,Preta,NA,NA,Solteiro/a,8 a 11 anos,NA,Cafarnaum,X698,X698,Hospital,Não
+420,BA,2010,2,2010-02-23,1946-05-12,Masculino,Branca,NA,NA,NA,8 a 11 anos,APOSENTADO/PENSIONISTA,Ibipeba,X700,X700,Outros,NA
+421,BA,2010,7,2010-07-24,NA,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,APOSENTADO/PENSIONISTA,Macaúbas,X689,X689,Hospital,NA
+422,BA,2010,4,2010-04-27,1956-04-07,Masculino,Branca,NA,NA,Solteiro/a,1 a 3 anos,NA,Macaúbas,X720,X720,Hospital,NA
+423,BA,2010,8,2010-08-25,NA,Masculino,NA,NA,NA,Solteiro/a,NA,NA,Riacho de Santana,X809,X809,Hospital,NA
+424,BA,2010,3,2010-03-06,1987-08-23,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,NA,Camaçari,X700,Y200,Domicílio,NA
+425,BA,2010,3,2010-03-07,1937-04-04,Masculino,Parda,NA,NA,Viúvo/a,1 a 3 anos,APOSENTADO/PENSIONISTA,Salvador,X689,R99,Outro estabelecimento de saúde,Não
+426,BA,2010,3,2010-03-12,1955-10-08,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Salvador,X809,Y299,Hospital,Não
+427,BA,2010,3,2010-03-13,1961-04-16,Feminino,Parda,NA,NA,Solteiro/a,12 e mais,NA,Salvador,X800,Y340,Domicílio,Não
+428,BA,2010,3,2010-03-13,1967-04-30,Feminino,Branca,NA,NA,Separado/a judicialmente,8 a 11 anos,NA,Salvador,X689,R99,Hospital,NA
+429,BA,2010,3,2010-03-16,1939-02-11,Masculino,Parda,NA,NA,Casado/a,8 a 11 anos,NA,Salvador,X689,R99,Domicílio,Não
+430,BA,2010,6,2010-06-21,1993-10-07,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,Ruy Barbosa,X799,X799,Domicílio,NA
+431,BA,2010,9,2010-09-26,1974-10-28,Masculino,NA,NA,NA,Solteiro/a,NA,NA,Livramento de Nossa Senhora,X700,X700,Via pública,NA
+432,BA,2010,3,2010-03-12,1964-06-15,Masculino,Parda,NA,NA,Solteiro/a,NA,TRABALHADOR AGROPECUARIO EM GERAL,Apuarema,X700,X700,Domicílio,Não
+433,BA,2010,3,2010-03-30,1933-03-06,Masculino,NA,NA,NA,Casado/a,NA,NA,Jequié,X700,X700,Domicílio,Não
+434,BA,2010,1,2010-01-02,1934-09-04,Masculino,Parda,NA,NA,Casado/a,1 a 3 anos,APOSENTADO/PENSIONISTA,Salvador,X700,X700,Domicílio,NA
+435,BA,2010,11,2010-11-14,1985-07-16,Masculino,Parda,NA,NA,Casado/a,8 a 11 anos,TRABALHADOR AGROPECUARIO EM GERAL,Campo Alegre de Lourdes,X749,X749,Outros,NA
+436,BA,2010,2,2010-02-23,1984-07-01,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,APOSENTADO/PENSIONISTA,Paulo Afonso,X720,X720,Domicílio,Não
+437,BA,2010,3,2010-03-10,1953-01-12,Masculino,Parda,NA,NA,NA,NA,NA,Dário Meira,X700,X700,Domicílio,Não
+438,BA,2010,1,2010-01-30,1968-08-24,Masculino,Branca,NA,NA,NA,NA,TRABALHADOR AGROPECUARIO EM GERAL,Maracás,X689,X689,Via pública,Não
+439,BA,2010,2,2010-02-12,1953-06-06,Masculino,Parda,NA,NA,Casado/a,NA,APOSENTADO/PENSIONISTA,Jaguaquara,X700,X700,Domicílio,Não
+440,BA,2010,1,2010-01-14,1963-10-16,Feminino,Branca,NA,NA,NA,NA,DONA DE CASA,Jequié,X700,X700,Domicílio,Não
+441,BA,2010,1,2010-01-16,1976-10-14,Masculino,Preta,NA,NA,Solteiro/a,NA,TRABALHADOR AGROPECUARIO EM GERAL,Jequié,X740,X740,Domicílio,Não
+442,BA,2010,3,2010-03-04,1983-01-24,Masculino,Parda,NA,NA,NA,NA,TRABALHADOR AGROPECUARIO EM GERAL,Maracás,X740,X740,Domicílio,Não
+443,BA,2010,7,2010-07-18,NA,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,Serrinha,X700,X700,Domicílio,NA
+444,BA,2010,6,2010-06-27,1961-07-02,Masculino,Parda,NA,NA,Casado/a,4 a 7 anos,GESSEIRO,Feira de Santana,X700,X700,Domicílio,NA
+445,BA,2010,7,2010-07-04,1968-07-05,Masculino,Preta,NA,NA,Solteiro/a,NA,TRABALHADOR AGROPECUARIO EM GERAL,Irará,X700,X700,Domicílio,NA
+446,BA,2010,7,2010-07-07,1991-08-07,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Feira de Santana,X700,X700,Domicílio,NA
+447,BA,2010,7,2010-07-09,1983-06-29,Masculino,NA,NA,NA,Solteiro/a,Nenhuma,TRABALHADOR AGROPECUARIO EM GERAL,Euclides da Cunha,X700,X700,Domicílio,NA
+448,BA,2010,7,2010-07-10,1957-03-10,Feminino,Parda,NA,NA,Solteiro/a,NA,NA,Feira de Santana,X649,X649,Outros,Não
+449,BA,2010,5,2010-05-14,1923-08-12,Masculino,Parda,NA,NA,Viúvo/a,NA,APOSENTADO/PENSIONISTA,Serra Preta,X700,X700,Domicílio,NA
+450,BA,2010,5,2010-05-16,1993-06-26,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,ESTUDANTE,Feira de Santana,X689,R99,Hospital,NA
+451,BA,2010,4,2010-04-26,1963-08-18,Masculino,Parda,NA,NA,Casado/a,4 a 7 anos,GERENTE COMERCIAL,Ipirá,X748,X748,Outros,Não
+452,BA,2010,5,2010-05-01,1958-01-11,Masculino,Parda,NA,NA,NA,4 a 7 anos,NA,Feira de Santana,X700,X700,Domicílio,NA
+453,BA,2010,5,2010-05-06,1955-10-05,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Feira de Santana,X700,X700,Domicílio,NA
+454,BA,2010,4,2010-04-16,NA,Masculino,NA,NA,NA,Solteiro/a,4 a 7 anos,TRABALHADOR AGROPECUARIO EM GERAL,Banzaê,X700,X700,Domicílio,NA
+455,BA,2010,4,2010-04-21,1952-03-01,Masculino,Parda,NA,NA,Casado/a,NA,APOSENTADO/PENSIONISTA,Muritiba,X700,X700,Domicílio,NA
+456,BA,2010,4,2010-04-24,1937-01-27,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,APOSENTADO/PENSIONISTA,Santo Amaro,X700,X700,Domicílio,Não
+457,BA,2010,4,2010-04-13,1982-08-25,Feminino,Parda,NA,NA,Solteiro/a,8 a 11 anos,NA,Salvador,X699,R99,Hospital,Não
+458,BA,2010,4,2010-04-15,1975-03-31,Feminino,Parda,NA,NA,Solteiro/a,8 a 11 anos,DONA DE CASA,Salvador,X689,R99,Hospital,Não
+459,BA,2010,4,2010-04-28,1952-09-07,Masculino,Parda,NA,NA,Casado/a,8 a 11 anos,NA,Salvador,X709,Y209,Outros,NA
+460,BA,2010,5,2010-05-02,1963-02-12,Masculino,Parda,NA,NA,Casado/a,1 a 3 anos,APOSENTADO/PENSIONISTA,Salvador,X700,X700,Domicílio,Não
+461,BA,2010,4,2010-04-17,1952-05-16,Masculino,NA,NA,NA,NA,NA,NA,Encruzilhada,X740,X740,Domicílio,NA
+462,BA,2010,5,2010-05-22,1958-06-30,Masculino,Branca,NA,NA,Casado/a,NA,NA,Vitória da Conquista,X730,X730,Domicílio,Não
+463,BA,2010,4,2010-04-25,1965-12-22,Masculino,Parda,NA,NA,Separado/a judicialmente,NA,"PRODUTOR AGROPECUARIO, EM GERAL",Boa Vista do Tupim,X700,X700,Domicílio,NA
+464,BA,2010,7,2010-07-10,1975-06-05,Masculino,Preta,NA,NA,Solteiro/a,NA,NA,Caetité,X692,X692,Hospital,NA
+465,BA,2010,8,2010-08-28,1983-08-10,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Mutuípe,X709,X709,Domicílio,NA
+466,BA,2010,9,2010-09-11,1947-10-18,Feminino,Parda,NA,NA,Casado/a,1 a 3 anos,TRABALHADOR AGROPECUARIO EM GERAL,Macaúbas,X709,X709,Outros,Não
+467,BA,2010,2,2010-02-24,1953-03-18,Masculino,Preta,NA,NA,NA,NA,NA,Feira de Santana,X700,X700,Domicílio,NA
+468,BA,2010,2,2010-02-28,1952-11-30,Feminino,Parda,NA,NA,Casado/a,NA,TRABALHADOR AGROPECUARIO EM GERAL,São Gonçalo Dos Campos,X700,X700,Domicílio,NA
+469,BA,2010,2,2010-02-13,1994-04-04,Feminino,Preta,NA,NA,NA,NA,NA,Macajuba,X700,X700,Domicílio,NA
+470,BA,2010,2,2010-02-22,1981-02-20,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Feira de Santana,X700,X700,Domicílio,Não
+471,BA,2010,3,2010-03-04,1975-02-28,Masculino,Preta,NA,NA,NA,4 a 7 anos,TRABALHADOR AGROPECUARIO EM GERAL,Amélia Rodrigues,X697,R99,Hospital,NA
+472,BA,2010,3,2010-03-07,1979-07-20,Masculino,Branca,NA,NA,Solteiro/a,NA,ESTUDANTE,Heliópolis,X700,X700,Domicílio,NA
+473,BA,2010,3,2010-03-25,1935-09-02,Masculino,Branca,NA,NA,Casado/a,NA,APOSENTADO/PENSIONISTA,Santo Estêvão,X700,X700,Domicílio,Não
+474,BA,2010,3,2010-03-27,1942-03-05,Masculino,Branca,NA,NA,NA,4 a 7 anos,TRABALHADOR AGROPECUARIO EM GERAL,Tucano,X780,X780,Domicílio,Não
+475,BA,2010,2,2010-02-19,1981-09-05,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,TRABALHADOR AGROPECUARIO EM GERAL,Ibicaraí,X700,X700,Domicílio,NA
+476,BA,2010,2,2010-02-24,1997-10-30,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,ESTUDANTE,Ibirapitanga,X749,X749,Hospital,NA
+477,BA,2010,1,2010-01-31,1928-02-28,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,TRABALHADOR AGROPECUARIO EM GERAL,Itabuna,X700,X700,Domicílio,Não
+478,BA,2010,1,2010-01-31,1967-06-25,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,NA,Ilhéus,X720,X720,Domicílio,Não
+479,BA,2010,2,2010-02-05,1977-09-05,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,EMPREGADO DOMESTICO NOS SERVICOS GERAIS,Buerarema,X800,X800,Domicílio,NA
+480,BA,2010,2,2010-02-04,1966-05-20,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,TRABALHADOR AGROPECUARIO EM GERAL,São José da Vitória,X700,X700,Outros,Não
+481,BA,2010,7,2010-07-17,1977-12-22,Masculino,Parda,NA,NA,Casado/a,1 a 3 anos,AJUDANTE DE MOTORISTA,Jandaíra,X689,X689,Outros,Não
+482,BA,2010,6,2010-06-22,1957-04-24,Feminino,Parda,NA,NA,Solteiro/a,4 a 7 anos,APOSENTADO/PENSIONISTA,Alagoinhas,X699,X699,Hospital,Não
+483,BA,2010,5,2010-05-16,1977-04-20,Masculino,Preta,NA,NA,Solteiro/a,8 a 11 anos,NA,Inhambupe,X700,X700,Domicílio,Não
+484,BA,2010,5,2010-05-17,1987-02-11,Masculino,Branca,NA,NA,Solteiro/a,4 a 7 anos,TRABALHADOR AGROPECUARIO EM GERAL,Crisópolis,X700,X700,Domicílio,Não
+485,BA,2010,5,2010-05-23,1987-06-06,Feminino,Parda,NA,NA,Casado/a,8 a 11 anos,NA,Inhambupe,X700,X700,Domicílio,Não
+486,BA,2010,6,2010-06-02,1998-03-29,Feminino,Parda,NA,NA,Solteiro/a,1 a 3 anos,ESTUDANTE,Pojuca,X699,X699,Outros,Não
+487,BA,2010,6,2010-06-07,1982-11-18,Masculino,Branca,NA,NA,Solteiro/a,NA,NA,Tucano,X748,X748,Outros,Não
+488,BA,2010,6,2010-06-09,1984-04-11,Feminino,Branca,NA,NA,Solteiro/a,NA,TRABALHADOR AGROPECUARIO EM GERAL,Água Fria,X700,X700,Domicílio,Não
+489,BA,2010,6,2010-06-11,1944-10-25,Masculino,Parda,NA,NA,NA,Nenhuma,NA,Ribeira do Pombal,X700,X700,Domicílio,NA
+490,BA,2010,3,2010-03-28,NA,Masculino,Branca,NA,NA,Solteiro/a,4 a 7 anos,NA,Riachão do Jacuípe,X700,X700,Domicílio,NA
+491,BA,2010,1,2010-01-09,1975-10-09,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Salvador,X849,X849,Hospital,NA
+492,BA,2010,1,2010-01-10,1965-08-05,Feminino,Parda,NA,NA,Casado/a,4 a 7 anos,NA,Salvador,X619,R99,Hospital,NA
+493,BA,2010,1,2010-01-09,1981-07-02,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,NA,Salvador,X689,R99,Via pública,Não
+494,BA,2010,1,2010-01-21,1973-09-13,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Lauro de Freitas,X829,X844,Via pública,Não
+495,BA,2010,1,2010-01-25,1976-08-24,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Salvador,X709,Y200,Domicílio,Não
+496,BA,2010,1,2010-01-15,1971-01-08,Masculino,Branca,NA,NA,Casado/a,8 a 11 anos,NA,Salvador,X680,R99,Domicílio,Não
+497,BA,2010,1,2010-01-16,1965-09-28,Masculino,Branca,NA,NA,Solteiro/a,4 a 7 anos,NA,Mata de São João,X749,Y249,Hospital,NA
+498,BA,2010,1,2010-01-14,1962-11-16,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Salvador,X824,Y344,Via pública,Não
+499,BA,2010,2,2010-02-04,1959-08-14,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Lauro de Freitas,X700,X700,Domicílio,NA
+500,BA,2010,4,2010-04-16,1955-07-08,Masculino,Parda,NA,NA,Casado/a,Nenhuma,TRABALHADOR AGROPECUARIO EM GERAL,Cícero Dantas,X710,X710,Domicílio,NA
+522,BA,2010,9,2010-09-28,1979-01-24,Masculino,Parda,NA,NA,Solteiro/a,NA,"PRODUTOR AGROPECUARIO, EM GERAL",Wagner,X700,X700,Domicílio,Não
+523,BA,2010,11,2010-11-01,1946-08-25,Masculino,Parda,NA,NA,NA,NA,NA,Boa Vista do Tupim,X700,X700,Domicílio,NA
+524,BA,2010,12,2010-12-16,1967-10-03,Masculino,Parda,NA,NA,Solteiro/a,NA,"PRODUTOR AGROPECUARIO, EM GERAL",Seabra,X700,X700,Domicílio,NA
+525,BA,2010,12,2010-12-20,1993-09-06,Masculino,Preta,NA,NA,Solteiro/a,NA,ESTUDANTE,Itaeté,X700,X700,Outros,Não
+526,BA,2010,11,2010-11-15,1978-07-05,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,"PRODUTOR AGROPECUARIO, EM GERAL",Rafael Jambeiro,X700,X700,Outros,NA
+527,BA,2010,9,2010-09-14,1973-06-11,Masculino,Preta,NA,NA,Solteiro/a,4 a 7 anos,NA,São Félix,X700,X700,Domicílio,Não
+528,BA,2010,9,2010-09-02,1981-04-21,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Salvador,X849,R99,Hospital,NA
+529,BA,2010,12,2010-12-01,1962-01-19,Feminino,Branca,NA,NA,NA,NA,NA,Conceição da Feira,X680,X680,Domicílio,NA
+530,BA,2010,3,2010-03-29,1971-11-19,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,PESCADOR ARTESANAL DE AGUA DOCE,Sento sé,X709,X709,Domicílio,Não
+531,BA,2010,4,2010-04-04,1979-01-02,Masculino,Parda,NA,NA,Casado/a,NA,EMPREGADO DOMESTICO NOS SERVICOS GERAIS,Andorinha,X787,X787,Domicílio,Não
+532,BA,2010,5,2010-05-10,1982-08-01,Masculino,Parda,NA,NA,Solteiro/a,NA,TRABALHADOR AGROPECUARIO EM GERAL,Cansanção,X700,X700,Domicílio,Não
+533,BA,2010,5,2010-05-09,1979-10-04,Feminino,Parda,NA,NA,Solteiro/a,Nenhuma,APOSENTADO/PENSIONISTA,Casa Nova,X769,X769,Hospital,NA
+534,BA,2010,5,2010-05-11,1995-01-13,Feminino,Parda,NA,NA,Solteiro/a,4 a 7 anos,ESTUDANTE,Jaguarari,X707,X707,Outros,Não
+535,BA,2010,6,2010-06-02,1977-06-26,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Canarana,X708,X708,Outros,NA
+536,BA,2010,7,2010-07-01,1962-02-20,Masculino,Parda,NA,NA,Casado/a,4 a 7 anos,NA,Uibaí,X700,X700,Domicílio,Não
+537,BA,2010,3,2010-03-18,NA,Feminino,Parda,NA,NA,Solteiro/a,Nenhuma,APOSENTADO/PENSIONISTA,São Gabriel,X652,X652,Hospital,Não
+538,BA,2010,11,2010-11-08,1958-01-29,Masculino,Parda,NA,NA,Casado/a,4 a 7 anos,MOTORISTA DE TAXI,Eunápolis,X700,X700,Domicílio,NA
+539,BA,2010,9,2010-09-22,1967-08-23,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Valença,X719,X719,Via pública,Não
+540,BA,2010,9,2010-09-13,1985-11-19,Masculino,Parda,NA,NA,Solteiro/a,Nenhuma,NA,Itanhém,X690,X690,Domicílio,Não
+541,BA,2010,12,2010-12-29,1986-07-11,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Simões Filho,X700,Y200,Domicílio,Não
+542,BA,2010,10,2010-10-24,1966-10-04,Masculino,Preta,NA,NA,Casado/a,NA,NA,Muritiba,X849,X849,Outros,Não
+543,BA,2010,12,2010-12-30,1977-12-04,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,TRABALHADOR AGROPECUARIO EM GERAL,Macaúbas,X780,X780,Domicílio,NA
+544,BA,2010,5,2010-05-31,1928-11-15,Feminino,Parda,NA,NA,Viúvo/a,8 a 11 anos,NA,Salvador,X800,Y298,Outros,Não
+545,BA,2010,5,2010-05-30,1979-04-30,Masculino,NA,NA,NA,Solteiro/a,8 a 11 anos,NA,Lauro de Freitas,X689,Y199,Hospital,Não
+546,BA,2010,6,2010-06-01,1984-05-11,Masculino,Preta,NA,NA,Solteiro/a,4 a 7 anos,NA,Salvador,X740,X950,Domicílio,Não
+547,BA,2010,6,2010-06-02,1963-08-25,Masculino,Branca,NA,NA,Casado/a,8 a 11 anos,NA,Lauro de Freitas,X701,X914,Outros,Não
+548,BA,2010,6,2010-06-04,1978-10-16,Masculino,Preta,NA,NA,Solteiro/a,4 a 7 anos,NA,Salvador,X701,Y209,Outros,Não
+549,BA,2010,6,2010-06-05,1987-02-02,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Salvador,X744,X954,Via pública,Não
+550,BA,2010,6,2010-06-06,1954-12-27,Feminino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Salvador,X689,J81,Hospital,NA
+551,BA,2010,6,2010-06-07,NA,Feminino,Parda,NA,NA,Separado/a judicialmente,12 e mais,NA,Salvador,X805,X805,Outros,Não
+552,BA,2010,6,2010-06-10,1995-07-17,Feminino,Parda,NA,NA,Solteiro/a,4 a 7 anos,ESTUDANTE,Salvador,X689,R99,Domicílio,Não
+553,BA,2010,6,2010-06-12,1977-08-22,Feminino,Parda,NA,NA,Solteiro/a,4 a 7 anos,DONA DE CASA,Salvador,X689,G936,Hospital,NA
+554,BA,2010,11,2010-11-12,1978-04-29,Feminino,Parda,NA,NA,Solteiro/a,4 a 7 anos,TRABALHADOR AGROPECUARIO EM GERAL,Água Fria,X708,X708,Outros,Não
+555,BA,2010,10,2010-10-28,1996-08-25,Masculino,Preta,NA,NA,Solteiro/a,NA,NA,Santo Estêvão,X700,X700,Outros,NA
+556,BA,2010,12,2010-12-12,1985-10-03,Masculino,NA,NA,NA,NA,NA,NA,Itaberaba,X709,X709,Hospital,NA
+557,BA,2010,12,2010-12-13,1973-05-25,Masculino,NA,NA,NA,NA,NA,NA,Ribeira do Pombal,X700,X700,Domicílio,NA
+558,BA,2010,12,2010-12-24,1969-11-23,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,Ribeira do Pombal,X700,X700,Domicílio,Não
+559,BA,2010,12,2010-12-25,1965-11-22,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,TRABALHADOR AGROPECUARIO EM GERAL,Santaluz,X700,X700,Domicílio,Não
+560,BA,2010,10,2010-10-06,1963-04-04,Masculino,Preta,NA,NA,Solteiro/a,4 a 7 anos,NA,Santo Estêvão,X700,X700,Domicílio,NA
+561,BA,2010,9,2010-09-21,1984-04-19,Masculino,Parda,NA,NA,Solteiro/a,12 e mais,NA,Santo Antônio de Jesus,X709,X709,Outros,Não
+562,BA,2010,9,2010-09-03,1947-08-07,Feminino,Parda,NA,NA,Viúvo/a,Nenhuma,DONA DE CASA,Vera Cruz,X709,X709,Domicílio,Não
+563,BA,2010,8,2010-08-31,1956-12-10,Masculino,Preta,NA,NA,Solteiro/a,Nenhuma,TRABALHADOR AGROPECUARIO EM GERAL,Cabaceiras do Paraguaçu,X709,X709,Domicílio,Não
+564,BA,2010,10,2010-10-01,1975-04-06,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,APOSENTADO/PENSIONISTA,Cruz Das Almas,X700,X700,Domicílio,Não
+565,BA,2010,8,2010-08-09,1961-09-15,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,TRABALHADOR AGROPECUARIO EM GERAL,Ubaíra,X709,X709,Domicílio,Não
+566,BA,2010,5,2010-05-05,NA,Feminino,Parda,NA,NA,Casado/a,12 e mais,NA,Salvador,X689,R99,Domicílio,Não
+567,BA,2010,5,2010-05-07,NA,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Dias D´ávila,X700,Y200,Domicílio,Não
+568,BA,2010,5,2010-05-08,1947-03-14,Feminino,Parda,NA,NA,Viúvo/a,1 a 3 anos,EMPREGADO DOMESTICO NOS SERVICOS GERAIS,Salvador,X669,R99,Outros,Não
+569,BA,2010,5,2010-05-10,1947-04-18,Masculino,Branca,NA,NA,Casado/a,8 a 11 anos,APOSENTADO/PENSIONISTA,Salvador,X689,Y189,Hospital,NA
+570,BA,2010,5,2010-05-10,1983-06-26,Feminino,Parda,NA,NA,Casado/a,8 a 11 anos,ESTUDANTE,Salvador,X688,R99,Hospital,Não
+571,BA,2010,5,2010-05-12,1936-07-27,Masculino,Parda,NA,NA,Casado/a,4 a 7 anos,APOSENTADO/PENSIONISTA,Santo Amaro,X680,X680,Hospital,NA
+572,BA,2010,5,2010-05-13,1969-03-28,Feminino,Parda,NA,NA,Solteiro/a,8 a 11 anos,NA,Camaçari,X688,R99,Hospital,Não
+573,BA,2010,5,2010-05-17,1961-01-28,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,NA,Salvador,X744,X954,Via pública,Não
+574,BA,2010,10,2010-10-12,1985-08-21,Masculino,NA,NA,NA,NA,1 a 3 anos,NA,Várzea da Roça,X700,X700,Domicílio,Não
+575,BA,2010,3,2010-03-06,1968-11-16,Masculino,NA,NA,NA,Solteiro/a,4 a 7 anos,NA,Teixeira de Freitas,X700,X700,Domicílio,Não
+576,BA,2010,6,2010-06-26,NA,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,Prado,X700,X700,Domicílio,NA
+577,BA,2010,8,2010-08-09,1934-12-23,Masculino,Parda,NA,NA,NA,NA,NA,Itamaraju,X700,X700,Domicílio,Não
+578,BA,2010,8,2010-08-22,NA,Masculino,Parda,NA,NA,NA,NA,NA,Itamaraju,X700,X700,Domicílio,Não
+579,BA,2010,12,2010-12-16,1931-11-03,Masculino,Preta,NA,NA,NA,NA,NA,Rio Real,X700,X700,Domicílio,Não
+580,BA,2010,10,2010-10-25,1991-12-27,Masculino,NA,NA,NA,Solteiro/a,4 a 7 anos,ESTUDANTE,Alagoinhas,X629,R99,Outros,Não
+581,BA,2010,12,2010-12-02,1985-10-21,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,TRABALHADOR AGROPECUARIO EM GERAL,Itapicuru,X701,X701,Outros,Não
+582,BA,2010,11,2010-11-23,1972-08-27,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,TRABALHADOR AGROPECUARIO EM GERAL,Sátiro Dias,X689,X689,Domicílio,Não
+583,BA,2010,9,2010-09-17,1947-06-02,Masculino,Parda,NA,NA,Casado/a,NA,NA,Ibititá,X740,X740,Domicílio,Não
+584,BA,2010,11,2010-11-22,1994-07-14,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,ESTUDANTE,Mulungu do Morro,X700,X700,Domicílio,Não
+585,BA,2010,9,2010-09-29,1964-02-29,Masculino,Preta,NA,NA,Solteiro/a,1 a 3 anos,NA,Lapão,X709,X709,Outros,NA
+586,BA,2010,6,2010-06-27,NA,Masculino,NA,NA,NA,NA,NA,NA,290000,X709,R99,Outros,Não
+587,BA,2010,6,2010-06-20,NA,Feminino,Parda,NA,NA,Solteiro/a,12 e mais,"PROFESSOR DA EDUCACAO DO ENSINO FUNDAMENTAL ",Camaçari,X689,R99,Hospital,NA
+588,BA,2010,7,2010-07-04,1967-09-20,Feminino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Lauro de Freitas,X689,R99,Hospital,Não
+589,BA,2010,6,2010-06-19,NA,Masculino,Branca,NA,NA,Solteiro/a,8 a 11 anos,NA,Salvador,X619,R99,Outros,Não
+590,BA,2010,10,2010-10-14,1975-03-20,Feminino,NA,NA,NA,Solteiro/a,4 a 7 anos,DONA DE CASA,Vitória da Conquista,X849,X849,Hospital,Não
+591,BA,2010,10,2010-10-15,1991-08-22,Masculino,Preta,NA,NA,Solteiro/a,4 a 7 anos,NA,Itambé,X699,X699,Outros,NA
+592,BA,2010,11,2010-11-12,1957-11-09,Feminino,Branca,NA,NA,Casado/a,1 a 3 anos,NA,Condeúba,X700,X700,Domicílio,Não
+593,BA,2010,11,2010-11-12,1949-02-23,Masculino,Branca,NA,NA,Casado/a,8 a 11 anos,CAFEICULTOR,Vitória da Conquista,X740,X740,Domicílio,NA
+594,BA,2010,11,2010-11-07,1972-07-23,Masculino,Parda,NA,NA,Casado/a,4 a 7 anos,NA,Encruzilhada,X699,X699,Outros,Não
+595,BA,2010,11,2010-11-30,NA,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,ESTUDANTE,Maiquinique,X700,X700,Domicílio,NA
+596,BA,2010,12,2010-12-10,1972-08-29,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,Vitória da Conquista,X717,X717,Outros,Não
+597,BA,2010,11,2010-11-30,1987-04-16,Feminino,Parda,NA,NA,NA,4 a 7 anos,NA,Cairu,X700,X700,Domicílio,Não
+598,BA,2010,12,2010-12-05,1959-03-01,Masculino,Parda,NA,NA,Casado/a,4 a 7 anos,NA,Nova Ibiá,X700,X700,Domicílio,Não
+599,BA,2010,12,2010-12-16,1996-04-12,Feminino,Branca,NA,NA,Solteiro/a,4 a 7 anos,NA,Barra da Estiva,X649,X649,Hospital,Não
+600,BA,2010,6,2010-06-02,NA,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Buritirama,X749,X749,Hospital,Não
+601,BA,2010,4,2010-04-23,1979-01-14,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Abaíra,X700,X700,Domicílio,NA
+602,BA,2010,3,2010-03-22,1994-10-11,Feminino,Parda,NA,NA,Solteiro/a,4 a 7 anos,ESTUDANTE,Tanhaçu,X689,X689,Hospital,Não
+603,BA,2010,5,2010-05-15,1983-06-23,Masculino,NA,NA,NA,Solteiro/a,NA,NA,Livramento de Nossa Senhora,X700,X700,Outros,NA
+604,BA,2010,3,2010-03-17,1978-07-16,Feminino,NA,NA,NA,Solteiro/a,NA,DONA DE CASA,Brumado,X700,X700,Domicílio,Não
+605,BA,2010,3,2010-03-20,1982-09-02,Masculino,Preta,NA,NA,Solteiro/a,NA,NA,Livramento de Nossa Senhora,X700,X700,Outros,Não
+606,BA,2010,2,2010-02-16,NA,Feminino,Parda,NA,NA,Casado/a,4 a 7 anos,DONA DE CASA,Barra do Choça,X710,X710,Domicílio,Não
+607,BA,2010,2,2010-02-14,1944-09-09,Feminino,Parda,NA,NA,Viúvo/a,Nenhuma,COMERCIANTE ATACADISTA,Vitória da Conquista,X844,X844,Via pública,Não
+608,BA,2010,3,2010-03-06,1989-05-15,Masculino,Preta,NA,NA,NA,NA,NA,Irecê,X700,X700,Domicílio,NA
+609,BA,2010,3,2010-03-18,1989-10-25,Masculino,Branca,NA,NA,Solteiro/a,1 a 3 anos,NA,Canarana,X704,X704,Domicílio,Não
+610,BA,2010,2,2010-02-21,1974-08-18,Masculino,Preta,NA,NA,NA,NA,NA,Maragogipe,X700,X700,Domicílio,Não
+611,BA,2010,1,2010-01-18,1989-08-17,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,TRABALHADOR AGROPECUARIO EM GERAL,Ponto Novo,X849,X849,Hospital,NA
+612,BA,2010,3,2010-03-21,1955-06-13,Masculino,Parda,NA,NA,Casado/a,4 a 7 anos,COMERCIANTE ATACADISTA,Planalto,X700,X700,Domicílio,NA
+613,BA,2010,3,2010-03-09,1962-10-03,Masculino,NA,NA,NA,Casado/a,NA,NA,Caraíbas,X690,X690,Domicílio,Não
+614,BA,2010,3,2010-03-17,1983-05-17,Masculino,Branca,NA,NA,Solteiro/a,4 a 7 anos,EMPREGADO DOMESTICO NOS SERVICOS GERAIS,Paripiranga,X749,X749,Hospital,NA
+615,BA,2010,3,2010-03-30,1979-01-23,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,TRABALHADOR AGROPECUARIO EM GERAL,Itapé,X700,X700,Domicílio,Não
+616,BA,2010,5,2010-05-27,1965-06-04,Feminino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Itabuna,X690,X690,Domicílio,NA
+617,BA,2010,10,2010-10-13,1951-06-02,Masculino,Parda,NA,NA,Casado/a,NA,NA,Jeremoabo,X834,X834,Via pública,Não
+618,BA,2010,6,2010-06-24,NA,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,MOTORISTA DE CARRO DE PASSEIO,Jeremoabo,X700,X700,Domicílio,Não
+619,BA,2010,12,2010-12-17,1958-10-22,Feminino,Parda,NA,NA,Viúvo/a,1 a 3 anos,ESTUDANTE,Coronel João sá,X700,X700,Domicílio,Não
+620,BA,2010,9,2010-09-16,1983-12-06,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Nova Soure,X709,X709,Outros,Não
+621,BA,2010,10,2010-10-07,1974-01-29,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,CASEIRO (AGRICULTURA),Entre Rios,X700,X700,Domicílio,Não
+622,BA,2010,7,2010-07-24,1989-09-15,Feminino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Entre Rios,X689,O95,Outros,NA
+623,BA,2010,8,2010-08-23,1966-07-01,Masculino,Branca,NA,NA,Solteiro/a,1 a 3 anos,TRABALHADOR AGROPECUARIO EM GERAL,Inhambupe,X709,X709,Outros,Não
+624,BA,2010,8,2010-08-27,1968-10-05,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,Olindina,X699,X699,Hospital,Não
+625,BA,2010,12,2010-12-29,1979-02-05,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,Itaberaba,X700,X700,Domicílio,NA
+626,BA,2010,5,2010-05-27,1991-12-05,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,BORRACHEIRO,Teixeira de Freitas,X700,X700,Domicílio,Não
+627,BA,2010,6,2010-06-20,1968-04-20,Masculino,NA,NA,NA,Solteiro/a,1 a 3 anos,NA,Alcobaça,X700,X700,Domicílio,Não
+628,BA,2010,7,2010-07-07,1961-06-05,Masculino,Parda,NA,NA,Solteiro/a,NA,GUARDA-CIVIL MUNICIPAL,Itanhém,X849,X849,Outros,NA
+629,BA,2010,8,2010-08-02,1989-09-09,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Teixeira de Freitas,X744,X744,Via pública,Não
+630,BA,2010,9,2010-09-15,1955-06-21,Feminino,Branca,NA,NA,Solteiro/a,NA,PROFESSOR DE NIVEL MEDIO NO ENSINO FUNDAMENTAL,Itamaraju,X760,X760,Domicílio,Não
+631,BA,2010,12,2010-12-07,1981-07-09,Masculino,Parda,NA,NA,Solteiro/a,NA,VENDEDOR AMBULANTE,Itamaraju,X680,X680,Domicílio,Não
+632,BA,2010,6,2010-06-04,1923-06-20,Masculino,Parda,NA,NA,Casado/a,Nenhuma,TRABALHADOR AGROPECUARIO EM GERAL,Ibirapitanga,X700,X700,Domicílio,NA
+633,BA,2010,6,2010-06-13,1938-05-29,Masculino,Parda,NA,NA,Solteiro/a,Nenhuma,TRABALHADOR AGROPECUARIO EM GERAL,Wenceslau Guimarães,X699,X699,Hospital,Não
+634,BA,2010,8,2010-08-15,1934-08-20,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,APOSENTADO/PENSIONISTA,Camacan,X700,X700,Domicílio,Não
+635,BA,2010,8,2010-08-25,1954-11-02,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Ubaitaba,X700,X700,Domicílio,NA
+636,BA,2010,7,2010-07-19,1962-07-05,Masculino,Parda,NA,NA,Casado/a,4 a 7 anos,TRABALHADOR AGROPECUARIO EM GERAL,Arataca,X749,X749,Hospital,Sim
+637,BA,2010,7,2010-07-14,1976-04-17,Masculino,Branca,NA,NA,Solteiro/a,4 a 7 anos,NA,Brumado,X619,X619,Hospital,NA
+638,BA,2010,10,2010-10-02,1975-02-12,Masculino,Preta,NA,NA,Separado/a judicialmente,NA,TRABALHADOR AGROPECUARIO EM GERAL,Ituaçu,X700,X700,Domicílio,Não
+639,BA,2010,9,2010-09-02,1981-11-11,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,ESTUDANTE,Caldeirão Grande,X703,X703,Domicílio,Não
+640,BA,2010,9,2010-09-12,1933-02-18,Masculino,Parda,NA,NA,Casado/a,1 a 3 anos,NA,Lapão,X700,X700,Domicílio,Não
+641,BA,2010,7,2010-07-28,1977-04-23,Masculino,NA,NA,NA,NA,NA,NA,Cotegipe,X709,X709,Outros,Não
+642,BA,2010,12,2010-12-08,1972-04-19,Feminino,Branca,NA,NA,Casado/a,NA,TRABALHADOR AGROPECUARIO EM GERAL,Tanhaçu,X840,X840,Domicílio,Não
+643,BA,2010,12,2010-12-11,1965-06-26,Masculino,Preta,NA,NA,NA,NA,NA,Brumado,X700,X700,Domicílio,Não
+644,BA,2010,7,2010-07-10,1987-11-15,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Itororó,X740,X740,Domicílio,NA
+645,BA,2010,7,2010-07-14,1982-01-30,Masculino,Branca,NA,NA,Solteiro/a,NA,IGNORADA,Cordeiros,X701,X701,Outros,Não
+646,BA,2010,6,2010-06-29,1966-01-12,Masculino,Parda,NA,NA,Solteiro/a,NA,LUSTRADOR DE PECAS DE MADEIRA,Vitória da Conquista,X700,X700,Domicílio,Não
+647,BA,2010,7,2010-07-30,1983-05-27,Masculino,Parda,NA,NA,NA,NA,IGNORADA,Vitória da Conquista,X699,R99,Hospital,Não
+648,BA,2010,8,2010-08-08,1971-10-20,Masculino,Parda,NA,NA,Casado/a,1 a 3 anos,NA,Caetanos,X740,X740,Domicílio,Não
+649,BA,2010,7,2010-07-14,1974-10-15,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Itapetinga,X747,X747,Outros,Não
+650,BA,2010,8,2010-08-11,1957-07-21,Masculino,Parda,NA,NA,Casado/a,4 a 7 anos,AJUDANTE DE MOTORISTA,Itapetinga,X844,X844,Via pública,Não
+651,BA,2010,8,2010-08-15,1967-06-05,Masculino,Parda,NA,NA,Casado/a,4 a 7 anos,NA,Poções,X700,X700,Domicílio,NA
+652,BA,2010,8,2010-08-15,1968-12-26,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Vitória da Conquista,X700,X700,Domicílio,Não
+653,BA,2010,8,2010-08-17,1954-04-23,Feminino,Parda,NA,NA,Viúvo/a,Nenhuma,NA,Poções,X700,X700,Domicílio,Não
+654,BA,2010,9,2010-09-02,1969-08-16,Feminino,Parda,NA,NA,Solteiro/a,4 a 7 anos,DONA DE CASA,Poções,X699,X699,Outros,NA
+655,BA,2010,9,2010-09-04,1986-06-15,Masculino,Parda,NA,NA,Solteiro/a,NA,IGNORADA,Ibicuí,X740,X740,Domicílio,Não
+656,BA,2010,9,2010-09-07,1964-01-27,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Poções,X700,X700,Domicílio,Não
+657,BA,2010,9,2010-09-22,1973-08-25,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Vitória da Conquista,X649,X649,Hospital,Não
+658,BA,2010,9,2010-09-20,1978-03-05,Masculino,Preta,NA,NA,Solteiro/a,NA,IGNORADA,Condeúba,X709,X709,Outros,Não
+659,BA,2010,6,2010-06-21,1986-03-01,Masculino,Parda,NA,NA,NA,4 a 7 anos,NA,Ipupiara,X709,X709,Via pública,Não
+660,BA,2010,10,2010-10-08,1963-06-30,Feminino,Branca,NA,NA,Separado/a judicialmente,8 a 11 anos,NA,Santa Maria da Vitória,X719,X719,Via pública,NA
+661,BA,2010,10,2010-10-30,1992-11-28,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Santa Maria da Vitória,X700,X700,Domicílio,NA
+662,BA,2010,7,2010-07-17,1959-10-25,Masculino,Parda,NA,NA,Casado/a,4 a 7 anos,TRABALHADOR AGROPECUARIO EM GERAL,Abaré,X669,X669,Hospital,Não
+663,BA,2010,7,2010-07-22,1977-03-24,Masculino,Preta,NA,NA,Solteiro/a,Nenhuma,LOCALIZADOR (COBRADOR),Sento sé,X849,X849,Outros,Não
+664,BA,2010,8,2010-08-04,1934-11-15,Masculino,Parda,NA,NA,Casado/a,4 a 7 anos,APOSENTADO/PENSIONISTA,Uauá,X709,X709,Outros,Não
+665,BA,2010,7,2010-07-07,1975-03-01,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,TRABALHADOR AGROPECUARIO EM GERAL,Casa Nova,X700,X700,Domicílio,Não
+666,BA,2010,7,2010-07-08,NA,Masculino,Parda,NA,NA,Casado/a,NA,NA,Casa Nova,X699,X699,Domicílio,Não
+667,BA,2010,7,2010-07-15,NA,Masculino,Preta,NA,NA,Solteiro/a,NA,ESTUDANTE,Nazaré,X704,X704,Via pública,NA
+668,BA,2010,8,2010-08-01,1971-01-20,Masculino,Parda,NA,NA,Casado/a,NA,NA,Muritiba,X729,X729,Outros,Não
+669,BA,2010,7,2010-07-16,1982-04-28,Masculino,Preta,NA,NA,Solteiro/a,4 a 7 anos,NA,Vera Cruz,X700,X700,Domicílio,Não
+670,BA,2010,7,2010-07-17,1944-06-23,Masculino,Parda,NA,NA,Casado/a,NA,NA,Itaparica,X700,X700,Domicílio,NA
+671,BA,2010,7,2010-07-17,1929-11-16,Masculino,Parda,NA,NA,Viúvo/a,4 a 7 anos,NA,Cruz Das Almas,X700,X700,Domicílio,NA
+672,BA,2010,8,2010-08-27,1957-12-25,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,Cravolândia,X699,X699,Via pública,Não
+673,BA,2010,9,2010-09-07,1986-03-18,Masculino,NA,NA,NA,NA,NA,VENDEDOR AMBULANTE,Maracás,X747,X747,Outros,Não
+674,BA,2010,9,2010-09-02,NA,Masculino,Parda,NA,NA,Solteiro/a,NA,TRABALHADOR AGROPECUARIO EM GERAL,Ipiaú,X740,X740,Domicílio,Não
+675,BA,2010,10,2010-10-12,1979-02-16,Masculino,Parda,NA,NA,Solteiro/a,NA,TRABALHADOR AGROPECUARIO EM GERAL,Jaguaquara,X700,X700,Domicílio,Não
+676,BA,2010,10,2010-10-16,1944-08-15,Masculino,Parda,NA,NA,NA,NA,APOSENTADO/PENSIONISTA,Maracás,X720,X720,Domicílio,Não
+677,BA,2010,11,2010-11-06,1967-09-09,Feminino,Parda,NA,NA,Solteiro/a,NA,DONA DE CASA,Aiquara,X700,X700,Domicílio,Não
+678,BA,2010,12,2010-12-04,1981-08-16,Masculino,Parda,NA,NA,NA,NA,NA,Ipiaú,X699,X699,Hospital,Não
+679,BA,2010,7,2010-07-12,1947-01-31,Masculino,Branca,NA,NA,Separado/a judicialmente,12 e mais,NA,Salvador,X740,Y240,Domicílio,Não
+680,BA,2010,7,2010-07-15,1969-09-26,Feminino,Parda,NA,NA,Casado/a,12 e mais,NA,Salvador,X700,Y200,Domicílio,Não
+681,BA,2010,7,2010-07-20,1963-05-25,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Salvador,X769,X099,Hospital,NA
+682,BA,2010,7,2010-07-23,1993-10-08,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,ESTUDANTE,Simões Filho,X700,Y344,Via pública,Não
+683,BA,2010,8,2010-08-03,1977-05-18,Masculino,Parda,NA,NA,Casado/a,4 a 7 anos,NA,Salvador,X688,R99,Hospital,NA
+684,BA,2010,8,2010-08-03,1957-12-13,Feminino,Branca,NA,NA,Solteiro/a,1 a 3 anos,DONA DE CASA,Salvador,X800,Y349,Hospital,NA
+685,BA,2010,9,2010-09-29,1983-04-24,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,NA,Salvador,X802,Y344,Via pública,Não
+686,BA,2010,10,2010-10-01,1946-05-20,Masculino,Parda,NA,NA,Casado/a,8 a 11 anos,NA,Salvador,X749,X749,Hospital,Não
+687,BA,2010,10,2010-10-05,NA,Feminino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Ipirá,X689,R99,Hospital,Não
+688,BA,2010,10,2010-10-07,NA,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Simões Filho,X700,Y340,Domicílio,Não
+689,BA,2010,10,2010-10-18,1951-08-29,Feminino,Parda,NA,NA,Solteiro/a,4 a 7 anos,DONA DE CASA,Lauro de Freitas,X780,Y280,Domicílio,Não
+690,BA,2010,10,2010-10-20,1942-04-15,Feminino,Branca,NA,NA,Casado/a,4 a 7 anos,DONA DE CASA,Salvador,X800,Y290,Domicílio,NA
+691,BA,2010,10,2010-10-08,1955-11-11,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Salvador,X649,X840,Domicílio,Não
+692,BA,2010,10,2010-10-09,1963-10-16,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Salvador,X700,X700,Domicílio,Não
+693,BA,2010,10,2010-10-09,1964-12-25,Feminino,Parda,NA,NA,Solteiro/a,4 a 7 anos,DONA DE CASA,Saúde,X689,R99,Hospital,NA
+694,BA,2010,10,2010-10-15,1964-12-29,Masculino,Parda,NA,NA,Casado/a,4 a 7 anos,NA,Salvador,X689,R99,Hospital,Não
+695,BA,2010,8,2010-08-15,1929-09-02,Masculino,Parda,NA,NA,Casado/a,1 a 3 anos,APOSENTADO/PENSIONISTA,Salvador,X689,R99,Domicílio,Não
+696,BA,2010,8,2010-08-19,1986-03-03,Masculino,Preta,NA,NA,Solteiro/a,4 a 7 anos,NA,Serrinha,X701,R99,Outros,Não
+697,BA,2010,8,2010-08-20,1971-09-11,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Salvador,X700,X700,Domicílio,Não
+698,BA,2010,7,2010-07-19,1977-03-08,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,Conceição do Coité,X700,X700,Domicílio,Não
+699,BA,2010,7,2010-07-24,1931-01-02,Masculino,Parda,NA,NA,Casado/a,4 a 7 anos,TRABALHADOR AGROPECUARIO EM GERAL,Valente,X700,X700,Domicílio,NA
+700,BA,2010,8,2010-08-23,1985-10-04,Masculino,NA,NA,NA,NA,8 a 11 anos,ESTUDANTE,Feira de Santana,X849,X849,Hospital,Não
+701,BA,2010,9,2010-09-13,1989-04-15,Masculino,Preta,NA,NA,Solteiro/a,4 a 7 anos,NA,São Gonçalo Dos Campos,X700,X700,Domicílio,NA
+702,BA,2010,9,2010-09-28,5199-10-02,Masculino,Parda,NA,NA,Solteiro/a,NA,TRABALHADOR AGROPECUARIO EM GERAL,Riachão do Jacuípe,X840,X840,Domicílio,Não
+703,BA,2010,10,2010-10-09,1982-09-21,Masculino,Parda,NA,NA,NA,8 a 11 anos,NA,Feira de Santana,X700,X700,Domicílio,Não
+704,BA,2010,10,2010-10-10,1966-08-11,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,APOSENTADO/PENSIONISTA,Feira de Santana,X700,X700,Domicílio,Não
+705,BA,2010,11,2010-11-03,1978-10-20,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,APOSENTADO/PENSIONISTA,Floresta Azul,X700,X700,Domicílio,Não
+706,BA,2010,11,2010-11-03,1983-10-24,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,NA,Itabuna,X700,X700,Domicílio,Não
+707,BA,2010,10,2010-10-19,1979-10-17,Masculino,Parda,NA,NA,Separado/a judicialmente,4 a 7 anos,NA,Itabuna,X700,X700,Domicílio,Não
+708,BA,2010,10,2010-10-22,1961-11-06,Masculino,Parda,NA,NA,Casado/a,4 a 7 anos,NA,Itabuna,X700,X700,Domicílio,Não
+709,BA,2010,10,2010-10-28,1977-05-28,Masculino,Parda,NA,NA,Solteiro/a,Nenhuma,TRABALHADOR AGROPECUARIO EM GERAL,Itaju do Colônia,X700,X700,Outros,Não
+710,BA,2010,9,2010-09-28,1981-11-03,Feminino,Parda,NA,NA,Solteiro/a,1 a 3 anos,DONA DE CASA,Ilhéus,X700,X700,Domicílio,NA
+711,BA,2010,12,2010-12-16,1937-05-06,Masculino,Branca,NA,NA,Solteiro/a,Nenhuma,APOSENTADO/PENSIONISTA,Urandi,X699,X699,Hospital,Não
+712,BA,2010,12,2010-12-28,1961-03-25,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,TRABALHADOR AGROPECUARIO EM GERAL,Palmas de Monte Alto,X699,X699,Hospital,Não
+713,BA,2010,10,2010-10-21,1976-08-16,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Salvador,X689,R99,Domicílio,Não
+714,BA,2010,10,2010-10-25,1988-06-27,Masculino,Branca,NA,NA,Solteiro/a,4 a 7 anos,NA,Salvador,X700,X700,Domicílio,Não
+715,BA,2010,10,2010-10-28,1957-06-12,Feminino,Branca,NA,NA,Solteiro/a,12 e mais,NA,Salvador,X800,Y346,Outros,Não
+716,BA,2010,11,2010-11-04,1973-06-05,Feminino,Parda,NA,NA,Solteiro/a,Nenhuma,APOSENTADO/PENSIONISTA,Salvador,X709,R99,Domicílio,Não
+717,BA,2010,11,2010-11-10,1963-03-30,Masculino,Parda,NA,NA,Casado/a,1 a 3 anos,NA,Salvador,X689,R99,Hospital,Não
+718,BA,2010,11,2010-11-11,1935-08-31,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,MARCENEIRO,Salvador,X699,R99,Domicílio,Não
+719,BA,2010,11,2010-11-12,1984-11-21,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Eunápolis,X702,X702,Outro estabelecimento de saúde,Não
+720,BA,2010,11,2010-11-21,1967-01-22,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,ELETRICISTA DE INSTALACOES,Lauro de Freitas,X834,W844,Domicílio,Não
+721,BA,2010,11,2010-11-27,1991-09-24,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Salvador,X700,Y209,Hospital,NA
+722,BA,2010,12,2010-12-01,1985-11-04,Masculino,Parda,NA,NA,Casado/a,8 a 11 anos,ESTUDANTE,Camaçari,X839,Y349,Domicílio,Não
+723,BA,2010,12,2010-12-08,1953-07-16,Masculino,Parda,NA,NA,Casado/a,4 a 7 anos,APOSENTADO/PENSIONISTA,Camaçari,X700,Y200,Outros,Não
+724,BA,2010,12,2010-12-09,1985-08-17,Feminino,Parda,NA,NA,Solteiro/a,8 a 11 anos,NA,Salvador,X800,Y349,Outros,Não
+725,BA,2010,12,2010-12-09,1965-10-29,Masculino,Preta,NA,NA,Solteiro/a,1 a 3 anos,FEIRANTE,Salvador,X689,R99,Hospital,Não
+726,BA,2010,12,2010-12-09,7198-10-03,Masculino,NA,NA,NA,Casado/a,8 a 11 anos,NA,Salvador,X708,X708,Outro estabelecimento de saúde,Não
+727,BA,2010,3,2010-03-22,1982-06-22,Masculino,Parda,NA,NA,Solteiro/a,NA,TRABALHADOR AGROPECUARIO EM GERAL,Correntina,X689,X689,Hospital,NA
+728,BA,2010,10,2010-10-08,NA,Masculino,Parda,NA,NA,Casado/a,1 a 3 anos,TRABALHADOR AGROPECUARIO EM GERAL,Castro Alves,X700,X700,Domicílio,NA
+729,BA,2010,10,2010-10-11,1995-05-17,Feminino,Preta,NA,NA,Solteiro/a,1 a 3 anos,ESTUDANTE,Santo Antônio de Jesus,X682,X682,Hospital,NA
+730,BA,2010,11,2010-11-16,1975-08-25,Feminino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Cruz Das Almas,X700,X700,Domicílio,NA
+731,BA,2010,11,2010-11-24,1991-05-01,Feminino,Parda,NA,NA,NA,NA,NA,Santa Rita de Cássia,X700,X700,Domicílio,NA
+732,BA,2010,12,2010-12-02,1981-05-18,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,NA,Barreiras,X704,X704,Via pública,NA
+733,BA,2010,12,2010-12-06,NA,Masculino,NA,NA,NA,NA,NA,ELETRICISTA DE INSTALACOES,Ipiaú,X700,X700,Domicílio,NA
+734,BA,2010,12,2010-12-06,1939-09-25,Masculino,Parda,NA,NA,NA,NA,APOSENTADO/PENSIONISTA,Manoel Vitorino,X700,X700,Domicílio,NA
+735,BA,2010,11,2010-11-12,1948-01-05,Masculino,Parda,NA,NA,Viúvo/a,Nenhuma,NA,Alcobaça,X700,X700,Domicílio,NA
+736,BA,2010,11,2010-11-23,1916-06-27,Feminino,Branca,NA,NA,Viúvo/a,Nenhuma,TRABALHADOR AGROPECUARIO EM GERAL,Casa Nova,X769,X769,Hospital,NA
+737,BA,2010,12,2010-12-26,1989-11-11,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,ESTUDANTE,Juazeiro,X700,X700,Domicílio,NA
+738,BA,2010,12,2010-12-11,1937-07-22,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,APOSENTADO/PENSIONISTA,Itabuna,X849,X849,Hospital,NA
+739,BA,2010,12,2010-12-19,1973-09-23,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,NA,Ilhéus,X700,X700,Domicílio,NA
+740,BA,2010,12,2010-12-23,1981-10-25,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,REPRESENTANTE COMERCIAL AUTONOMO,Itaju do Colônia,X704,X704,Via pública,NA
+741,BA,2010,12,2010-12-26,1943-05-10,Masculino,Preta,NA,NA,Solteiro/a,Nenhuma,APOSENTADO/PENSIONISTA,Ilhéus,X680,X680,Domicílio,NA
+742,BA,2010,12,2010-12-07,1995-09-11,Masculino,Preta,NA,NA,Solteiro/a,1 a 3 anos,ESTUDANTE,Camacan,X700,X700,Via pública,NA
+743,BA,2010,12,2010-12-10,1975-02-14,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,REPRESENTANTE COMERCIAL AUTONOMO,Ilhéus,X700,X700,Domicílio,NA
+744,BA,2010,12,2010-12-15,1977-11-20,Masculino,Preta,NA,NA,Solteiro/a,1 a 3 anos,CASEIRO (AGRICULTURA),Maraú,X708,X708,Outros,NA
+745,BA,2010,12,2010-12-27,1948-06-23,Masculino,Preta,NA,NA,Solteiro/a,1 a 3 anos,NA,Uruçuca,X740,X740,Domicílio,NA
+746,BA,2010,12,2010-12-29,1983-07-07,Masculino,Branca,NA,NA,Solteiro/a,4 a 7 anos,"AUXILIAR DE ESCRITORIO, EM GERAL",Ilhéus,X696,X696,Outros,NA
+747,BA,2010,12,2010-12-30,1981-12-02,Masculino,Parda,NA,NA,Solteiro/a,NA,COMERCIANTE ATACADISTA,Xique-xique,X700,X700,Domicílio,NA
+748,BA,2010,12,2010-12-20,1981-07-02,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,VENDEDOR AMBULANTE,Caetité,X809,X809,Domicílio,NA
+749,BA,2010,3,2010-03-20,1957-07-16,Masculino,Branca,NA,NA,Solteiro/a,8 a 11 anos,CARTEIRO,João Dourado,X680,X680,Domicílio,NA
+750,BA,2010,7,2010-07-11,1974-03-21,Feminino,Parda,NA,NA,Solteiro/a,4 a 7 anos,EMPREGADO DOMESTICO NOS SERVICOS GERAIS,Lapão,X618,X618,Hospital,NA
+751,CE,2010,1,2010-01-06,1959-03-10,Masculino,Parda,NA,NA,Solteiro/a,Nenhuma,CASEIRO (AGRICULTURA),Trairi,X700,X700,Domicílio,NA
+752,CE,2010,4,2010-04-25,1962-05-03,Masculino,Parda,NA,NA,Casado/a,12 e mais,DIRIGENTE DO SERVICO PUBLICO MUNICIPAL,Fortaleza,X709,X709,Domicílio,NA
+753,CE,2010,4,2010-04-23,1975-01-16,Masculino,NA,NA,NA,Solteiro/a,NA,NA,Fortaleza,X849,X849,Domicílio,NA
+754,CE,2010,4,2010-04-25,1949-08-31,Feminino,NA,NA,1 a 3 anos,Solteiro/a,NA,PROFESSOR DA AREA DE MEIO AMBIENTE,Fortaleza,X709,X709,Domicílio,NA
+755,CE,2010,4,2010-04-24,1971-04-09,Masculino,NA,NA,1 a 3 anos,Solteiro/a,NA,VENDEDOR AMBULANTE,Fortaleza,X709,X709,Domicílio,NA
+756,CE,2010,4,2010-04-25,1981-06-17,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,Fortaleza,X709,X709,Domicílio,NA
+757,CE,2010,5,2010-05-07,1984-10-29,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,NA,Fortaleza,X709,X709,Domicílio,Não
+758,CE,2010,5,2010-05-25,NA,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,Trairi,X709,X709,Domicílio,NA
+759,CE,2010,5,2010-05-09,1947-08-06,Feminino,NA,NA,NA,Casado/a,NA,NA,Caucaia,X700,X700,Domicílio,Não
+760,CE,2010,5,2010-05-31,1995-03-06,Masculino,NA,NA,NA,Solteiro/a,NA,ESTUDANTE,Fortaleza,X700,X700,Outros,Não
+761,CE,2010,5,2010-05-22,1966-03-17,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,"PRODUTOR AGROPECUARIO, EM GERAL",Potengi,X700,X700,Domicílio,Não
+762,CE,2010,8,2010-08-30,1964-08-15,Masculino,Parda,NA,NA,Casado/a,NA,NA,Mauriti,X709,X709,Domicílio,Não
+763,CE,2010,6,2010-06-18,NA,Feminino,Parda,NA,NA,Solteiro/a,NA,TRABALHADOR AGROPECUARIO EM GERAL,Santana do Cariri,X700,X700,Domicílio,Não
+764,CE,2010,6,2010-06-22,1967-01-22,Feminino,Parda,NA,NA,Casado/a,12 e mais,NA,Crato,X689,X689,Hospital,Sim
+765,CE,2010,5,2010-05-07,1959-04-21,Masculino,Parda,NA,NA,Casado/a,1 a 3 anos,TRABALHADOR AGROPECUARIO EM GERAL,Crato,X709,X709,Domicílio,Não
+766,CE,2010,6,2010-06-21,NA,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Fortaleza,X699,X699,Hospital,Não
+767,CE,2010,5,2010-05-16,1956-01-20,Masculino,NA,NA,1 a 3 anos,Solteiro/a,NA,MOTORISTA DE CARRO DE PASSEIO,Fortaleza,X709,X709,Domicílio,NA
+768,CE,2010,5,2010-05-16,1982-08-16,Masculino,NA,NA,1 a 3 anos,Casado/a,NA,IMPRESSOR (SERIGRAFIA),Fortaleza,X709,X709,Domicílio,NA
+769,CE,2010,6,2010-06-01,NA,Masculino,Branca,NA,NA,Solteiro/a,NA,BORRACHEIRO,Fortaleza,X709,X709,Domicílio,NA
+770,CE,2010,5,2010-05-23,1981-01-07,Masculino,NA,NA,NA,Solteiro/a,NA,MARCADOR DE PRODUTOS (SIDERURGICO E METALURGICO),Fortaleza,X699,X699,Hospital,NA
+771,CE,2010,5,2010-05-28,1949-09-16,Feminino,Parda,NA,1 a 3 anos,Casado/a,1 a 3 anos,DONA DE CASA,Caucaia,X709,X709,Domicílio,NA
+772,CE,2010,2,2010-02-18,1987-08-16,Masculino,Parda,NA,NA,Solteiro/a,NA,CASEIRO (AGRICULTURA),Pacatuba,X709,X709,Outros,Não
+773,CE,2010,2,2010-02-25,1975-04-10,Masculino,NA,NA,NA,Solteiro/a,NA,NA,Fortaleza,X709,X709,Domicílio,NA
+774,CE,2010,3,2010-03-02,1982-08-05,Masculino,NA,NA,NA,Solteiro/a,NA,APOSENTADO/PENSIONISTA,Itaitinga,X709,X709,Domicílio,NA
+775,CE,2010,2,2010-02-25,1951-11-01,Masculino,Parda,NA,NA,Casado/a,NA,NA,Fortaleza,X709,X709,Via pública,Não
+776,CE,2010,3,2010-03-10,1942-06-18,Masculino,Parda,NA,NA,Viúvo/a,NA,CASEIRO (AGRICULTURA),Canindé,X761,X761,Hospital,NA
+777,CE,2010,4,2010-04-02,1993-11-08,Masculino,Parda,NA,NA,Solteiro/a,NA,ESTUDANTE,Fortaleza,X709,X709,Domicílio,NA
+778,CE,2010,4,2010-04-19,1968-05-30,Masculino,Branca,NA,NA,Casado/a,NA,MOTORISTA DE CARRO DE PASSEIO,Fortaleza,X709,X709,Domicílio,NA
+779,CE,2010,3,2010-03-10,1979-08-07,Masculino,NA,NA,NA,Solteiro/a,1 a 3 anos,NA,Pacatuba,X709,X709,Domicílio,NA
+780,CE,2010,3,2010-03-10,1994-03-09,Masculino,NA,NA,NA,Solteiro/a,4 a 7 anos,ESTUDANTE,Pacajus,X709,X709,NA,NA
+781,CE,2010,3,2010-03-07,1989-11-26,Masculino,Parda,NA,NA,Solteiro/a,NA,ESTUDANTE,Paracuru,X639,X639,Hospital,NA
+782,CE,2010,3,2010-03-07,1987-05-01,Feminino,Parda,NA,NA,Solteiro/a,NA,NA,Fortaleza,X709,X709,Outros,NA
+783,CE,2010,2,2010-02-23,1967-12-23,Feminino,NA,NA,NA,Solteiro/a,NA,NA,Fortaleza,X709,X350,Outros,NA
+784,CE,2010,2,2010-02-28,1988-03-24,Feminino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Caucaia,X699,X699,Hospital,NA
+785,CE,2010,2,2010-02-25,1959-09-27,Masculino,Parda,NA,NA,Casado/a,NA,NA,Fortaleza,X699,X699,Hospital,NA
+786,CE,2010,3,2010-03-25,1993-07-22,Masculino,NA,NA,NA,Solteiro/a,NA,ESTUDANTE,Fortaleza,X699,X699,Hospital,NA
+787,CE,2010,3,2010-03-25,1985-05-07,Masculino,NA,NA,NA,Solteiro/a,4 a 7 anos,CASEIRO (AGRICULTURA),Itaitinga,X709,X709,Via pública,NA
+788,CE,2010,3,2010-03-22,1962-07-09,Masculino,Branca,NA,NA,Viúvo/a,NA,REPRESENTANTE COMERCIAL AUTONOMO,Fortaleza,X700,X700,Domicílio,NA
+789,CE,2010,4,2010-04-01,1951-01-27,Masculino,NA,NA,NA,Casado/a,NA,CASEIRO (AGRICULTURA),Mombaça,X699,X699,Hospital,NA
+790,CE,2010,4,2010-04-02,NA,Masculino,Parda,NA,NA,Solteiro/a,NA,CASEIRO (AGRICULTURA),Paracuru,X709,X709,Domicílio,Não
+791,CE,2010,2,2010-02-17,NA,Masculino,Parda,NA,NA,Casado/a,NA,NA,Ibiapina,X700,X700,Via pública,NA
+792,CE,2010,2,2010-02-18,1197-10-03,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,CABO DA POLICIA MILITAR,Sobral,X801,X801,Outros,NA
+793,CE,2010,2,2010-02-15,1963-03-02,Masculino,Parda,NA,NA,Casado/a,8 a 11 anos,NA,Morrinhos,X708,X708,Outros,NA
+794,CE,2010,2,2010-02-16,NA,Feminino,Parda,NA,NA,Casado/a,1 a 3 anos,DONA DE CASA,Croatá,X700,X700,Domicílio,Não
+795,CE,2010,2,2010-02-17,1967-07-23,Masculino,Branca,NA,NA,Solteiro/a,NA,PRODUTOR AGRICOLA POLIVALENTE,Jijoca de Jericoacoara,X700,X700,Domicílio,Não
+796,CE,2010,1,2010-01-05,NA,Masculino,Branca,NA,NA,Casado/a,NA,NA,Sobral,X640,X640,Domicílio,Não
+797,CE,2010,2,2010-02-23,1955-02-07,Feminino,Parda,NA,NA,Solteiro/a,Nenhuma,NA,Tianguá,X649,X649,Hospital,Não
+798,CE,2010,3,2010-03-02,1928-12-24,Masculino,Branca,NA,NA,Casado/a,1 a 3 anos,NA,Pires Ferreira,X700,X700,Domicílio,Não
+799,CE,2010,3,2010-03-08,1925-11-16,Masculino,Parda,NA,NA,Casado/a,1 a 3 anos,NA,Varjota,X700,X700,Domicílio,Não
+800,CE,2010,3,2010-03-04,1988-02-26,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,TRABALHADOR DA CULTURA DE MILHO E SORGO,Itapagé,X700,X700,Domicílio,Não
+801,CE,2010,3,2010-03-10,1986-01-04,Feminino,Branca,NA,NA,Solteiro/a,1 a 3 anos,ESTUDANTE,Nova Russas,X649,X649,Hospital,Sim
+802,CE,2010,3,2010-03-12,1988-12-11,Masculino,Parda,NA,NA,Solteiro/a,NA,TRABALHADOR NA OLERICULTURA (FRUTOS E SEMENTES),Carnaubal,X730,X730,Via pública,NA
+803,CE,2010,8,2010-08-03,1967-03-09,Masculino,Preta,NA,NA,Solteiro/a,4 a 7 anos,PRODUTOR AGRICOLA POLIVALENTE,Quixeramobim,X709,X709,Domicílio,Não
+804,CE,2010,8,2010-08-04,1949-05-21,Masculino,Preta,NA,NA,Casado/a,Nenhuma,PRODUTOR AGRICOLA POLIVALENTE,Quixadá,X709,X709,Domicílio,Não
+805,CE,2010,8,2010-08-04,1977-06-04,Masculino,Parda,NA,NA,Casado/a,4 a 7 anos,PRODUTOR AGRICOLA POLIVALENTE,Pedra Branca,X709,X709,Domicílio,Não
+806,CE,2010,8,2010-08-05,NA,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,TRATORISTA AGRICOLA,Limoeiro do Norte,X709,X709,Domicílio,Não
+807,CE,2010,8,2010-08-07,1982-01-02,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,NA,Aracati,X709,X709,Outros,Não
+808,CE,2010,8,2010-08-10,1986-04-10,Masculino,Preta,NA,NA,Solteiro/a,4 a 7 anos,PRODUTOR AGRICOLA POLIVALENTE,Quixeramobim,X709,X709,Domicílio,Não
+809,CE,2010,8,2010-08-10,1975-07-29,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,PRODUTOR AGRICOLA POLIVALENTE,Limoeiro do Norte,X709,X709,Domicílio,Não
+810,CE,2010,8,2010-08-18,1992-02-29,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,PRODUTOR AGRICOLA POLIVALENTE,Aracati,X709,X709,Domicílio,Não
+811,CE,2010,8,2010-08-19,1983-03-13,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Senador Pompeu,X709,X709,Outros,Não
+812,CE,2010,9,2010-09-09,1954-05-10,Masculino,Parda,NA,NA,Casado/a,4 a 7 anos,PRODUTOR AGRICOLA POLIVALENTE,Beberibe,X709,X709,Outros,NA
+813,CE,2010,7,2010-07-24,1983-04-19,Feminino,Parda,NA,NA,Solteiro/a,8 a 11 anos,DONA DE CASA,Choró,X681,X681,Hospital,NA
+814,CE,2010,5,2010-05-22,1987-06-12,Feminino,Branca,NA,NA,Solteiro/a,4 a 7 anos,DONA DE CASA,Quixeramobim,X699,X699,Domicílio,Não
+815,CE,2010,5,2010-05-24,NA,Feminino,Parda,NA,NA,Casado/a,NA,PRODUTOR AGRICOLA POLIVALENTE,Pedra Branca,X680,X680,Hospital,NA
+816,CE,2010,6,2010-06-28,NA,Masculino,Preta,NA,NA,Solteiro/a,Nenhuma,APOSENTADO/PENSIONISTA,Juazeiro do Norte,X709,X709,Via pública,Não
+817,CE,2010,6,2010-06-29,1984-10-06,Masculino,Preta,NA,NA,Solteiro/a,1 a 3 anos,NA,Iguatu,X709,X709,Domicílio,Não
+818,CE,2010,7,2010-07-03,1968-06-26,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,CASEIRO (AGRICULTURA),Quixadá,X709,X709,Domicílio,Não
+819,CE,2010,7,2010-07-07,1972-02-10,Feminino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Russas,X709,X709,Domicílio,Não
+820,CE,2010,6,2010-06-12,1951-04-20,Masculino,NA,NA,NA,Solteiro/a,NA,NA,Reriutaba,X649,X649,Hospital,NA
+821,CE,2010,6,2010-06-14,1934-09-17,Masculino,Branca,NA,NA,NA,NA,APOSENTADO/PENSIONISTA,Jijoca de Jericoacoara,X740,X740,Domicílio,Não
+822,CE,2010,6,2010-06-23,1988-08-18,Masculino,Branca,NA,NA,Solteiro/a,NA,NA,São Benedito,X700,X700,Outros,NA
+823,CE,2010,6,2010-06-29,1989-02-16,Masculino,Parda,NA,NA,Solteiro/a,NA,ESTUDANTE,Jijoca de Jericoacoara,X700,X700,Domicílio,Não
+824,CE,2010,6,2010-06-30,1991-05-21,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Sobral,X649,X649,Hospital,NA
+825,CE,2010,4,2010-04-05,1953-10-07,Masculino,Branca,NA,NA,Casado/a,8 a 11 anos,REPRESENTANTE COMERCIAL AUTONOMO,Fortaleza,X700,X700,Domicílio,NA
+826,CE,2010,5,2010-05-19,1951-07-16,Feminino,NA,NA,NA,Solteiro/a,NA,NA,Fortaleza,X709,X709,Domicílio,NA
+827,CE,2010,4,2010-04-24,1949-03-05,Masculino,Parda,NA,NA,Solteiro/a,NA,BARBEIRO,Cascavel,X709,X709,Domicílio,Não
+828,CE,2010,4,2010-04-06,1924-08-08,Masculino,NA,NA,NA,Viúvo/a,NA,APOSENTADO/PENSIONISTA,Fortaleza,X700,X700,Domicílio,NA
+829,CE,2010,4,2010-04-04,1923-10-18,Masculino,NA,NA,NA,Viúvo/a,NA,APOSENTADO/PENSIONISTA,Fortaleza,X709,X709,Via pública,Não
+830,CE,2010,4,2010-04-06,1963-04-20,Feminino,Parda,NA,NA,Solteiro/a,Nenhuma,DONA DE CASA,Fortaleza,X639,X639,Hospital,Não
+831,CE,2010,4,2010-04-15,1979-02-09,Masculino,NA,NA,NA,Solteiro/a,NA,CASEIRO (AGRICULTURA),Caucaia,X700,X700,Domicílio,NA
+832,CE,2010,4,2010-04-08,1988-06-22,Masculino,NA,NA,NA,Solteiro/a,4 a 7 anos,NA,Fortaleza,X700,X700,Domicílio,NA
+833,CE,2010,6,2010-06-12,1974-11-04,Masculino,Parda,NA,NA,Casado/a,1 a 3 anos,TRABALHADOR AGROPECUARIO EM GERAL,Catarina,X720,X720,Domicílio,Não
+834,CE,2010,6,2010-06-12,1987-12-09,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,Tabuleiro do Norte,X709,X709,Outros,Não
+835,CE,2010,4,2010-04-03,1964-06-07,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,TRABALHADOR AGROPECUARIO EM GERAL,Aracati,X700,X700,Domicílio,Não
+836,CE,2010,9,2010-09-19,NA,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,TRABALHADOR AGROPECUARIO EM GERAL,Iguatu,X680,X680,Hospital,Não
+837,CE,2010,9,2010-09-12,NA,Masculino,Branca,NA,NA,Solteiro/a,NA,TRABALHADOR AGROPECUARIO EM GERAL,Várzea Alegre,X740,X740,Domicílio,Não
+838,CE,2010,9,2010-09-16,1969-06-30,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Orós,X707,X707,Via pública,Não
+839,CE,2010,10,2010-10-03,NA,Masculino,Parda,NA,NA,Solteiro/a,NA,TRABALHADOR AGROPECUARIO EM GERAL,Várzea Alegre,X700,X700,Domicílio,Não
+840,CE,2010,10,2010-10-08,1957-11-20,Masculino,Parda,NA,NA,Casado/a,Nenhuma,NA,Iguatu,X701,X701,Outros,Não
+841,CE,2010,11,2010-11-02,1924-04-04,Masculino,Parda,NA,NA,Casado/a,Nenhuma,TRABALHADOR AGROPECUARIO EM GERAL,Quixelô,X709,X709,NA,Não
+842,CE,2010,12,2010-12-28,1955-11-08,Feminino,Parda,NA,NA,Casado/a,1 a 3 anos,NA,Cariús,X610,J189,Hospital,Não
+843,CE,2010,1,2010-01-12,1931-07-17,Masculino,Parda,NA,NA,Viúvo/a,NA,PRODUTOR AGRICOLA POLIVALENTE,Quixeramobim,X709,X709,Domicílio,Não
+844,CE,2010,1,2010-01-13,1931-06-10,Masculino,Branca,NA,NA,Viúvo/a,1 a 3 anos,NA,Milhã,X700,X700,Domicílio,NA
+845,CE,2010,1,2010-01-20,1983-08-25,Masculino,Parda,NA,NA,Solteiro/a,NA,PRODUTOR AGRICOLA POLIVALENTE,Pedra Branca,X700,X700,Domicílio,NA
+846,CE,2010,1,2010-01-21,1993-05-13,Feminino,NA,NA,NA,Solteiro/a,NA,NA,Pacoti,X680,X680,Outros,Não
+847,CE,2010,1,2010-01-23,1984-06-06,Masculino,Branca,NA,NA,Solteiro/a,4 a 7 anos,NA,Ocara,X700,X700,Domicílio,Não
+848,CE,2010,5,2010-05-05,1967-11-24,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Aracati,X709,X709,Outros,Não
+849,CE,2010,7,2010-07-03,NA,Masculino,Parda,NA,NA,Casado/a,Nenhuma,PRODUTOR AGRICOLA POLIVALENTE,Independência,X709,X709,Domicílio,NA
+850,CE,2010,5,2010-05-22,1986-03-31,Masculino,Parda,NA,NA,Casado/a,4 a 7 anos,NA,Tejuçuoca,X740,X740,Domicílio,Sim
+851,CE,2010,5,2010-05-23,1948-12-19,Masculino,Parda,NA,NA,Casado/a,NA,NA,Santa Quitéria,X700,X700,Domicílio,NA
+852,CE,2010,5,2010-05-25,1983-03-21,Masculino,Parda,NA,NA,Solteiro/a,Nenhuma,TRABALHADOR AGROPECUARIO EM GERAL,Boa Viagem,X709,X709,Domicílio,Não
+853,CE,2010,6,2010-06-03,1932-05-05,Masculino,Parda,NA,NA,Casado/a,Nenhuma,NA,Nova Russas,X700,X700,Domicílio,NA
+854,CE,2010,6,2010-06-22,1964-02-03,Feminino,Branca,NA,NA,Casado/a,Nenhuma,NA,Itatira,X680,X680,Domicílio,Não
+855,CE,2010,4,2010-04-21,1989-08-20,Masculino,Parda,NA,NA,Solteiro/a,NA,ESTUDANTE,Russas,X700,X700,Domicílio,Não
+856,CE,2010,3,2010-03-23,1964-09-03,Feminino,Parda,NA,NA,Casado/a,NA,TRABALHADOR AGROPECUARIO EM GERAL,Ipu,X709,X709,Outros,Não
+857,CE,2010,3,2010-03-27,1983-06-17,Masculino,Preta,NA,NA,Solteiro/a,1 a 3 anos,NA,Tauá,X708,X708,Domicílio,NA
+858,CE,2010,4,2010-04-06,1972-10-27,Masculino,NA,NA,NA,Solteiro/a,4 a 7 anos,NA,Independência,X700,X700,Domicílio,Não
+859,CE,2010,3,2010-03-19,1973-05-28,Masculino,Parda,NA,NA,Casado/a,1 a 3 anos,TRABALHADOR AGROPECUARIO EM GERAL,Boa Viagem,X700,X700,Outros,Não
+860,CE,2010,2,2010-02-10,NA,Masculino,Preta,NA,NA,Solteiro/a,1 a 3 anos,NA,Ipaporanga,X700,X700,Domicílio,Não
+861,CE,2010,2,2010-02-16,1978-12-18,Feminino,Parda,NA,NA,Solteiro/a,NA,ESTUDANTE,Boa Viagem,X709,X709,Domicílio,Não
+862,CE,2010,2,2010-02-18,1975-06-29,Masculino,Parda,NA,NA,Solteiro/a,Nenhuma,TRABALHADOR AGROPECUARIO EM GERAL,Boa Viagem,X700,X700,Domicílio,Não
+863,CE,2010,2,2010-02-21,1963-06-30,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Tauá,X708,X708,Domicílio,NA
+864,CE,2010,2,2010-02-25,1987-07-13,Feminino,Parda,NA,NA,Solteiro/a,NA,ESTUDANTE,Canindé,X649,X649,Hospital,NA
+865,CE,2010,2,2010-02-02,1986-04-16,Feminino,Parda,NA,NA,Casado/a,1 a 3 anos,"PRODUTOR AGROPECUARIO, EM GERAL",Parambu,X700,X700,Domicílio,Não
+866,CE,2010,1,2010-01-18,1961-04-19,Feminino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Tauá,X708,X708,Outros,NA
+867,CE,2010,1,2010-01-19,1952-05-19,Masculino,Parda,NA,NA,Solteiro/a,NA,"PRODUTOR AGROPECUARIO, EM GERAL",Parambu,X700,X700,NA,Não
+868,CE,2010,3,2010-03-07,1926-01-18,Feminino,Parda,NA,NA,Casado/a,NA,NA,Aurora,X700,X700,Domicílio,Não
+869,CE,2010,3,2010-03-10,1975-02-11,Masculino,Parda,NA,NA,Viúvo/a,4 a 7 anos,NA,Caririaçu,X700,X700,Outros,Não
+870,CE,2010,2,2010-02-06,1959-11-02,Feminino,Parda,NA,NA,Solteiro/a,Nenhuma,PRODUTOR AGRICOLA POLIVALENTE,Caririaçu,X700,X700,Domicílio,Não
+871,CE,2010,2,2010-02-07,1989-02-19,Masculino,Branca,NA,NA,Solteiro/a,NA,NA,Crato,X709,X709,Outros,Não
+872,CE,2010,7,2010-07-12,1954-02-27,Feminino,Parda,NA,NA,Viúvo/a,Nenhuma,NA,Poranga,X699,X699,Domicílio,Não
+873,CE,2010,3,2010-03-27,1936-05-30,Masculino,Branca,NA,NA,Casado/a,4 a 7 anos,NA,Fortaleza,X836,X836,Hospital,Sim
+874,CE,2010,8,2010-08-11,1957-06-08,Masculino,Parda,NA,NA,Solteiro/a,Nenhuma,PRODUTOR AGRICOLA POLIVALENTE,Crateús,X700,X700,Domicílio,Não
+875,CE,2010,8,2010-08-22,1965-09-18,Masculino,NA,NA,NA,Casado/a,NA,APOSENTADO/PENSIONISTA,Crateús,X700,X700,Domicílio,NA
+876,CE,2010,8,2010-08-25,1978-11-29,Masculino,Parda,NA,NA,Casado/a,4 a 7 anos,"PRODUTOR AGROPECUARIO, EM GERAL",Parambu,X720,X720,Hospital,Não
+877,CE,2010,8,2010-08-29,1987-02-28,Masculino,Preta,NA,NA,Solteiro/a,1 a 3 anos,PRODUTOR AGRICOLA POLIVALENTE,Itatira,X709,X709,Domicílio,Não
+878,CE,2010,9,2010-09-07,1957-09-18,Masculino,Preta,NA,NA,Casado/a,Nenhuma,NA,Itatira,X709,X709,Domicílio,Não
+879,CE,2010,9,2010-09-07,1984-01-17,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Crateús,X709,X709,Domicílio,Não
+880,CE,2010,9,2010-09-08,1992-06-08,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,ESTUDANTE,Aracati,X709,X709,Via pública,Não
+881,CE,2010,9,2010-09-19,1949-06-24,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Catunda,X709,X709,Outros,NA
+882,CE,2010,9,2010-09-19,1977-08-25,Masculino,Preta,NA,NA,Solteiro/a,1 a 3 anos,NA,Crateús,X709,X709,Domicílio,Não
+883,CE,2010,10,2010-10-13,1993-02-10,Masculino,Parda,NA,NA,Solteiro/a,Nenhuma,NA,Nova Russas,X700,X700,Domicílio,NA
+884,CE,2010,10,2010-10-14,NA,Feminino,Branca,NA,NA,Solteiro/a,NA,ESTUDANTE,Tauá,X700,X700,Domicílio,NA
+885,CE,2010,10,2010-10-15,1982-02-06,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Tauá,X700,X700,Domicílio,Não
+886,CE,2010,10,2010-10-27,1916-11-24,Masculino,Parda,NA,NA,Casado/a,NA,NA,Independência,X700,X700,Domicílio,NA
+887,CE,2010,10,2010-10-28,1997-08-03,Feminino,Parda,NA,NA,Solteiro/a,NA,ESTUDANTE,Tauá,X700,X700,Domicílio,NA
+888,CE,2010,10,2010-10-31,1985-03-08,Masculino,Parda,NA,NA,Solteiro/a,Nenhuma,NA,Canindé,X849,X849,Hospital,NA
+889,CE,2010,1,2010-01-07,1965-08-14,Masculino,Parda,NA,NA,Separado/a judicialmente,NA,ESTUDANTE,Caririaçu,X708,X708,Domicílio,Não
+890,CE,2010,1,2010-01-07,1932-07-24,Feminino,Parda,NA,NA,Viúvo/a,4 a 7 anos,APOSENTADO/PENSIONISTA,Iguatu,X700,X700,Domicílio,Não
+891,CE,2010,2,2010-02-07,1947-05-17,Masculino,Parda,NA,NA,Casado/a,NA,NA,Pedra Branca,X700,X700,Outros,NA
+892,CE,2010,2,2010-02-15,1916-11-13,Masculino,Branca,NA,NA,Casado/a,8 a 11 anos,APOSENTADO/PENSIONISTA,Iguatu,X700,X700,Domicílio,Não
+893,CE,2010,3,2010-03-01,1961-03-23,Masculino,Branca,NA,NA,Solteiro/a,1 a 3 anos,PRODUTOR AGRICOLA POLIVALENTE,Acopiara,X689,R99,Outros,Não
+894,CE,2010,1,2010-01-31,1981-06-21,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,TRABALHADOR AGROPECUARIO EM GERAL,Iguatu,X708,X708,Via pública,Não
+895,CE,2010,1,2010-01-13,NA,Masculino,Parda,NA,NA,Casado/a,Nenhuma,CASEIRO (AGRICULTURA),Icó,X680,X680,Domicílio,Não
+896,CE,2010,6,2010-06-12,1966-12-04,Feminino,Parda,NA,NA,Separado/a judicialmente,8 a 11 anos,APOSENTADO/PENSIONISTA,Orós,X610,X610,Hospital,NA
+897,CE,2010,4,2010-04-04,5196-10-03,Masculino,Parda,NA,NA,Casado/a,1 a 3 anos,NA,Crato,X700,X700,Domicílio,Não
+898,CE,2010,6,2010-06-25,1963-10-26,Masculino,Parda,NA,NA,Casado/a,1 a 3 anos,TRABALHADOR AGROPECUARIO EM GERAL,Crato,X704,X704,Via pública,Não
+899,CE,2010,6,2010-06-23,1963-11-23,Masculino,Parda,NA,NA,Casado/a,4 a 7 anos,CASEIRO (AGRICULTURA),Crato,X709,X709,Outros,Não
+900,CE,2010,5,2010-05-17,1979-09-12,Masculino,Parda,NA,NA,Solteiro/a,Nenhuma,NA,Itapipoca,X719,X719,Outros,NA
+901,CE,2010,5,2010-05-19,6196-10-02,Masculino,Parda,NA,NA,Casado/a,1 a 3 anos,CASEIRO (AGRICULTURA),Icó,X640,X640,Hospital,Não
+902,CE,2010,6,2010-06-12,1959-03-28,Masculino,Branca,NA,NA,Viúvo/a,Nenhuma,APOSENTADO/PENSIONISTA,São Benedito,X700,X700,Domicílio,NA
+903,CE,2010,1,2010-01-04,1994-08-28,Feminino,Parda,NA,NA,Solteiro/a,4 a 7 anos,ESTUDANTE,Nova Olinda,X640,X640,Domicílio,NA
+904,CE,2010,4,2010-04-09,1993-10-04,Feminino,Branca,NA,NA,Solteiro/a,8 a 11 anos,NA,Cariús,X700,X700,Domicílio,Não
+905,CE,2010,4,2010-04-16,NA,Masculino,Branca,NA,NA,Solteiro/a,4 a 7 anos,TRABALHADOR AGROPECUARIO EM GERAL,Quixelô,X700,X700,Domicílio,Não
+906,CE,2010,5,2010-05-04,NA,Feminino,Parda,NA,NA,Solteiro/a,Nenhuma,TRABALHADOR AGROPECUARIO EM GERAL,Orós,X700,X700,Domicílio,Não
+907,CE,2010,4,2010-04-03,1964-01-15,Masculino,Parda,NA,NA,Casado/a,1 a 3 anos,TRABALHADOR AGROPECUARIO EM GERAL,Catarina,X840,X840,Via pública,Não
+908,CE,2010,4,2010-04-24,1985-11-30,Masculino,Branca,NA,NA,Solteiro/a,NA,TRABALHADOR AGROPECUARIO EM GERAL,Icó,X745,X745,Via pública,Não
+909,CE,2010,8,2010-08-03,1988-12-26,Masculino,Branca,NA,NA,Solteiro/a,4 a 7 anos,PRODUTOR AGRICOLA POLIVALENTE,Acopiara,X689,R092,Hospital,Não
+910,CE,2010,4,2010-04-18,1949-10-12,Masculino,Parda,NA,NA,Casado/a,4 a 7 anos,PRODUTOR AGRICOLA POLIVALENTE,Crateús,X700,X700,Domicílio,NA
+911,CE,2010,5,2010-05-15,1964-11-28,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,ELETRICISTA DE INSTALACOES,Nova Russas,X690,X690,Hospital,NA
+912,CE,2010,5,2010-05-31,1922-10-07,Feminino,NA,NA,NA,Viúvo/a,NA,PRODUTOR AGRICOLA POLIVALENTE,Novo Oriente,X699,X699,Hospital,Não
+913,CE,2010,1,2010-01-07,1966-12-27,Masculino,Parda,NA,NA,Casado/a,1 a 3 anos,NA,Guaraciaba do Norte,X659,X659,Via pública,Não
+914,CE,2010,1,2010-01-11,1975-03-01,Masculino,Parda,NA,NA,Casado/a,Nenhuma,GARI,Jijoca de Jericoacoara,X700,X700,Domicílio,Não
+915,CE,2010,1,2010-01-06,NA,Masculino,Parda,NA,NA,Solteiro/a,Nenhuma,NA,São Benedito,X704,X704,Outros,NA
+916,CE,2010,2,2010-02-08,1986-02-18,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,TRABALHADOR DA CULTURA DE MILHO E SORGO,Itapagé,X700,X700,Domicílio,Não
+917,CE,2010,1,2010-01-24,NA,Masculino,Parda,NA,NA,Solteiro/a,Nenhuma,NA,Viçosa do Ceará,X700,X700,Domicílio,NA
+918,CE,2010,2,2010-02-07,1975-01-10,Masculino,Parda,NA,NA,Solteiro/a,NA,PRODUTOR AGRICOLA POLIVALENTE,Pedra Branca,X700,X700,Domicílio,NA
+919,CE,2010,2,2010-02-01,1937-07-26,Feminino,Parda,NA,NA,Casado/a,NA,APOSENTADO/PENSIONISTA,Limoeiro do Norte,X700,X700,Domicílio,NA
+920,CE,2010,2,2010-02-04,1971-02-01,Masculino,Parda,NA,NA,Casado/a,1 a 3 anos,NA,Quixadá,X689,X689,Hospital,NA
+921,CE,2010,2,2010-02-15,1938-05-05,Masculino,Branca,NA,NA,Casado/a,4 a 7 anos,APOSENTADO/PENSIONISTA,Aracati,X709,X709,Outros,Não
+922,CE,2010,2,2010-02-17,1969-10-24,Masculino,Parda,NA,NA,Casado/a,NA,NA,Pedra Branca,X700,X700,Outros,NA
+923,CE,2010,2,2010-02-21,1985-09-21,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,Limoeiro do Norte,X700,X700,Domicílio,NA
+924,CE,2010,3,2010-03-07,1948-01-31,Masculino,Parda,NA,NA,Casado/a,1 a 3 anos,TRABALHADOR AGROPECUARIO EM GERAL,Russas,X689,R99,Hospital,Não
+925,CE,2010,3,2010-03-27,1938-03-02,Masculino,Parda,NA,NA,Casado/a,1 a 3 anos,NA,Jaguaruana,X700,X700,Domicílio,Não
+926,CE,2010,4,2010-04-04,1987-05-20,Masculino,Parda,NA,NA,Solteiro/a,NA,ESTUDANTE,Quixadá,X680,R99,Domicílio,NA
+927,CE,2010,3,2010-03-15,1981-04-29,Masculino,Preta,NA,NA,Solteiro/a,Nenhuma,NA,Palmácia,X700,X700,Domicílio,NA
+928,CE,2010,10,2010-10-18,1956-07-01,Masculino,Parda,NA,NA,Casado/a,1 a 3 anos,PRODUTOR AGRICOLA POLIVALENTE,Pedra Branca,X700,X700,Domicílio,NA
+929,CE,2010,4,2010-04-20,1966-06-22,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Morada Nova,X699,R99,Outros,Não
+930,CE,2010,4,2010-04-26,1982-10-11,Masculino,Parda,NA,NA,Casado/a,NA,TRABALHADOR AGROPECUARIO EM GERAL,Russas,X700,X700,NA,NA
+931,CE,2010,7,2010-07-14,NA,Masculino,Parda,NA,NA,Casado/a,Nenhuma,NA,Poranga,X699,X699,NA,Não
+932,CE,2010,5,2010-05-15,1967-05-08,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,São Benedito,X684,X684,Outros,NA
+933,CE,2010,8,2010-08-01,1975-05-09,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,São Benedito,X644,X644,Hospital,Não
+934,CE,2010,5,2010-05-11,1961-05-10,Masculino,Branca,NA,NA,Casado/a,1 a 3 anos,TRABALHADOR NA OLERICULTURA (FRUTOS E SEMENTES),Carnaubal,X685,X685,Domicílio,NA
+935,CE,2010,3,2010-03-09,1962-10-12,Masculino,Parda,NA,NA,NA,NA,NA,Carnaubal,X680,X680,Hospital,Não
+936,CE,2010,3,2010-03-31,1925-12-22,Feminino,Parda,NA,NA,Casado/a,Nenhuma,NA,Nova Russas,X700,X700,Domicílio,NA
+937,CE,2010,5,2010-05-21,1988-03-14,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,NA,Nova Russas,X684,X684,Via pública,NA
+938,CE,2010,10,2010-10-08,NA,Feminino,Parda,NA,NA,Casado/a,4 a 7 anos,CASEIRO (AGRICULTURA),Iracema,X690,X690,Hospital,NA
+939,CE,2010,1,2010-01-29,1977-11-28,Masculino,Parda,NA,NA,Casado/a,1 a 3 anos,NA,Itarema,X700,X700,Domicílio,Não
+940,CE,2010,1,2010-01-01,NA,Feminino,NA,NA,NA,Solteiro/a,12 e mais,ESTUDANTE,Fortaleza,X749,X749,Via pública,NA
+941,CE,2010,1,2010-01-01,1982-09-03,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Aquiraz,X701,X701,Outros,Não
+942,CE,2010,1,2010-01-02,1937-06-27,Masculino,Parda,NA,NA,Viúvo/a,4 a 7 anos,APOSENTADO/PENSIONISTA,Fortaleza,X709,X709,Domicílio,NA
+943,CE,2010,1,2010-01-10,NA,Masculino,Parda,NA,NA,Solteiro/a,NA,CASEIRO (AGRICULTURA),Paracuru,X639,X639,Hospital,NA
+944,CE,2010,1,2010-01-05,1937-05-12,Feminino,NA,NA,NA,Viúvo/a,1 a 3 anos,APOSENTADO/PENSIONISTA,Fortaleza,X700,X700,Domicílio,NA
+945,CE,2010,1,2010-01-20,1961-03-12,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Fortaleza,X709,X709,Outros,NA
+946,CE,2010,1,2010-01-30,1981-02-07,Masculino,Parda,NA,NA,Solteiro/a,8 a 11 anos,NA,Fortaleza,X749,X749,Domicílio,NA
+947,CE,2010,1,2010-01-14,NA,Masculino,NA,NA,NA,Solteiro/a,NA,NA,Fortaleza,X709,X709,Domicílio,NA
+948,CE,2010,1,2010-01-13,NA,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,CASEIRO (AGRICULTURA),Caucaia,X709,X709,Domicílio,Não
+949,CE,2010,1,2010-01-17,1966-03-05,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Fortaleza,X709,X709,Via pública,NA
+950,CE,2010,2,2010-02-24,1996-08-30,Feminino,Parda,NA,NA,Solteiro/a,4 a 7 anos,ESTUDANTE,Maracanaú,X709,X709,Hospital,NA
+951,CE,2010,3,2010-03-03,1981-10-08,Feminino,Parda,NA,NA,Solteiro/a,12 e mais,AGENTE DE VIAGEM,Pacatuba,X709,X709,Domicílio,NA
+952,CE,2010,1,2010-01-23,1991-01-05,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,"MECANICO DE MANUTENCAO DE AERONAVES, EM GERAL",Quixadá,X689,X689,Hospital,NA
+953,CE,2010,1,2010-01-07,1994-12-27,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,Redenção,X709,X709,Domicílio,Não
+954,CE,2010,1,2010-01-25,1956-07-13,Feminino,Parda,NA,NA,Casado/a,8 a 11 anos,ARTESAO MODELADOR (VIDROS),Maracanaú,X709,X709,Domicílio,Não
+955,CE,2010,1,2010-01-31,1976-05-09,Masculino,NA,NA,NA,Solteiro/a,NA,NA,Caucaia,X709,X709,Domicílio,NA
+956,CE,2010,1,2010-01-30,1941-06-08,Feminino,Parda,NA,NA,Casado/a,4 a 7 anos,DONA DE CASA,Fortaleza,X709,X709,Domicílio,NA
+957,CE,2010,1,2010-01-14,1975-12-04,Feminino,Parda,NA,NA,Solteiro/a,NA,NA,Fortaleza,X824,X824,Via pública,NA
+958,CE,2010,1,2010-01-26,1965-02-17,Masculino,Branca,NA,NA,Casado/a,4 a 7 anos,AUXILIAR DE PRODUCAO FARMACEUTICA,Maracanaú,X709,X709,Domicílio,Não
+959,CE,2010,4,2010-04-30,1964-12-26,Feminino,Parda,NA,NA,Viúvo/a,NA,NA,Horizonte,X680,X680,Hospital,NA
+960,CE,2010,1,2010-01-28,1943-08-19,Masculino,NA,NA,NA,Casado/a,NA,APOSENTADO/PENSIONISTA,Fortaleza,X709,X709,Hospital,NA
+961,CE,2010,2,2010-02-03,1982-06-02,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Fortaleza,X639,X639,Hospital,Não
+962,CE,2010,1,2010-01-15,1977-03-03,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,PORTEIRO (HOTEL),Fortaleza,X649,X649,Hospital,NA
+963,CE,2010,2,2010-02-26,1968-02-11,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Fortaleza,X709,X709,Domicílio,NA
+964,CE,2010,2,2010-02-02,1989-06-02,Masculino,Parda,NA,NA,Solteiro/a,NA,CASEIRO (AGRICULTURA),Aquiraz,X709,X709,Domicílio,NA
+965,CE,2010,2,2010-02-14,1973-09-01,Masculino,Branca,NA,NA,Solteiro/a,NA,NA,Fortaleza,X709,X709,Domicílio,NA
+966,CE,2010,2,2010-02-06,1995-08-01,Feminino,NA,NA,NA,Solteiro/a,NA,ESTUDANTE,Maracanaú,X680,X680,Hospital,NA
+967,CE,2010,2,2010-02-03,2001-04-16,Masculino,NA,NA,NA,NA,NA,ESTUDANTE,Fortaleza,X709,X709,Domicílio,NA
+968,CE,2010,2,2010-02-27,1936-06-24,Feminino,Parda,NA,NA,Viúvo/a,4 a 7 anos,NA,Fortaleza,X709,X709,Domicílio,NA
+969,CE,2010,2,2010-02-07,1984-09-07,Masculino,NA,NA,NA,Solteiro/a,NA,NA,Fortaleza,X744,X744,Via pública,NA
+970,CE,2010,2,2010-02-07,1971-10-17,Masculino,NA,NA,NA,Separado/a judicialmente,NA,NA,Senador Pompeu,X749,X749,Domicílio,NA
+971,CE,2010,3,2010-03-26,1989-09-09,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,ELETRICISTA DE INSTALACOES,Fortaleza,X700,X700,Domicílio,NA
+972,CE,2010,2,2010-02-13,1965-08-02,Masculino,Parda,NA,NA,Solteiro/a,12 e mais,DESENHISTA TECNICO,Fortaleza,X709,X709,Domicílio,Não
+973,CE,2010,2,2010-02-15,1987-12-27,Masculino,NA,NA,NA,Solteiro/a,NA,NA,Acarapé,X749,X749,Via pública,NA
+974,CE,2010,2,2010-02-10,1986-01-21,Masculino,Parda,NA,NA,Solteiro/a,NA,EMPREGADO DOMESTICO NOS SERVICOS GERAIS,Maranguape,X639,X639,Domicílio,NA
+975,CE,2010,2,2010-02-14,1989-07-08,Masculino,Parda,NA,NA,Solteiro/a,NA,REPRESENTANTE COMERCIAL AUTONOMO,Fortaleza,X709,X709,Domicílio,NA
+976,CE,2010,10,2010-10-10,1988-08-17,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,PRODUTOR AGRICOLA POLIVALENTE,Cruz,X680,R99,Domicílio,Não
+977,CE,2010,4,2010-04-29,NA,Masculino,Parda,NA,NA,Casado/a,Nenhuma,NA,Acaraú,X746,X746,Domicílio,NA
+978,CE,2010,1,2010-01-02,1954-07-19,Masculino,Parda,NA,NA,Casado/a,1 a 3 anos,NA,Ipaporanga,X700,X700,Domicílio,Não
+979,CE,2010,7,2010-07-11,1958-10-23,Feminino,Parda,NA,NA,Casado/a,1 a 3 anos,NA,Caridade,X709,X709,Domicílio,NA
+980,CE,2010,7,2010-07-08,NA,Masculino,Parda,NA,NA,Separado/a judicialmente,1 a 3 anos,PRODUTOR AGRICOLA POLIVALENTE,Independência,X709,X709,Outros,Não
+981,CE,2010,7,2010-07-22,1987-06-20,Masculino,Parda,NA,NA,Solteiro/a,NA,TRABALHADOR AGROPECUARIO EM GERAL,Boa Viagem,X719,X719,Domicílio,Não
+982,CE,2010,7,2010-07-26,1961-12-15,Feminino,Parda,NA,NA,Solteiro/a,NA,NA,Morada Nova,X640,X640,Hospital,Não
+983,CE,2010,1,2010-01-03,NA,Masculino,NA,NA,NA,Solteiro/a,NA,NA,Brejo Santo,X700,X700,Domicílio,NA
+984,CE,2010,2,2010-02-24,1977-07-10,Masculino,Parda,NA,NA,Casado/a,4 a 7 anos,NA,Milagres,X700,X700,Domicílio,Não
+985,CE,2010,6,2010-06-15,1983-07-08,Feminino,Parda,NA,NA,Solteiro/a,NA,TRABALHADOR AGROPECUARIO EM GERAL,Brejo Santo,X700,X700,Domicílio,Não
+986,CE,2010,7,2010-07-03,1959-08-26,Feminino,NA,NA,NA,Separado/a judicialmente,12 e mais,NA,Brejo Santo,X700,X700,Domicílio,Não
+987,CE,2010,1,2010-01-08,1922-01-14,Masculino,Parda,NA,NA,Viúvo/a,NA,APOSENTADO/PENSIONISTA,Fortaleza,X709,X709,Domicílio,NA
+988,CE,2010,3,2010-03-17,1956-06-06,Masculino,Parda,NA,NA,Viúvo/a,1 a 3 anos,TRABALHADOR AGROPECUARIO EM GERAL,Ipaumirim,X700,X700,Domicílio,NA
+989,CE,2010,6,2010-06-21,1984-09-10,Masculino,Branca,NA,NA,Solteiro/a,Nenhuma,NA,Itapiúna,X612,X612,Hospital,NA
+990,CE,2010,4,2010-04-18,1981-09-12,Masculino,Branca,NA,NA,Solteiro/a,1 a 3 anos,NA,Jaguaribe,X642,X642,Via pública,NA
+991,CE,2010,8,2010-08-26,1986-06-19,Masculino,Parda,NA,NA,Solteiro/a,1 a 3 anos,NA,Granja,X730,X730,Domicílio,NA
+992,CE,2010,3,2010-03-09,1978-03-05,Masculino,Parda,NA,NA,Solteiro/a,Nenhuma,NA,Viçosa do Ceará,X718,X718,Outros,NA
+993,CE,2010,3,2010-03-28,1991-01-13,Masculino,Parda,NA,NA,Solteiro/a,Nenhuma,NA,Viçosa do Ceará,X708,X708,Outros,NA
+994,CE,2010,4,2010-04-12,1988-07-16,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,ESTUDANTE,São Benedito,X709,X709,Domicílio,NA
+995,CE,2010,1,2010-01-20,1983-05-03,Masculino,Parda,NA,NA,Solteiro/a,12 e mais,NA,Fortaleza,X708,X708,Outros,Não
+996,CE,2010,8,2010-08-13,1966-12-02,Masculino,Parda,NA,NA,Solteiro/a,NA,EMPREGADO DOMESTICO NOS SERVICOS GERAIS,Quixeramobim,X709,X709,Domicílio,Não
+997,CE,2010,8,2010-08-08,1964-06-07,Feminino,Branca,NA,NA,Solteiro/a,12 e mais,DIRIGENTE DO SERVICO PUBLICO FEDERAL,Fortaleza,X700,X700,Domicílio,NA
+998,CE,2010,8,2010-08-11,1981-05-29,Masculino,Parda,NA,NA,Casado/a,NA,CASEIRO (AGRICULTURA),Uruburetama,X689,X689,Hospital,NA
+999,CE,2010,8,2010-08-23,NA,Masculino,Branca,NA,NA,Solteiro/a,NA,NA,São Luís do Curu,X709,X709,Domicílio,NA
+1000,CE,2010,8,2010-08-18,1976-08-20,Masculino,Parda,NA,NA,Solteiro/a,4 a 7 anos,NA,Fortaleza,X700,X700,Domicílio,NA
+1001,CE,2010,8,2010-08-18,1988-07-18,Feminino,NA,NA,NA,Solteiro/a,NA,DONA DE CASA,Redenção,X689,X689,Via pública,NA
+1002,CE,2010,8,2010-08-20,1989-09-15,Masculino,Parda,NA,NA,Solteiro/a,NA,ENCARREGADO DE ACABAMENTO DE CHAPAS E METAIS (TEMPERA),Guaiúba,X689,X689,NA,Não
+1003,CE,2010,8,2010-08-21,NA,Masculino,Parda,NA,NA,Casado/a,12 e mais,NA,Maracanaú,X632,X632,Hospital,Não
+1004,CE,2010,7,2010-07-20,1976-05-18,Masculino,NA,NA,NA,Solteiro/a,NA,NA,Fortaleza,X689,X689,Hospital,NA
+1005,CE,2010,7,2010-07-16,1967-12-21,Masculino,Parda,NA,NA,Casado/a,NA,ESTUDANTE,Fortaleza,X689,X689,Hospital,NA
+1006,CE,2010,9,2010-09-01,1983-02-05,Feminino,NA,NA,NA,Solteiro/a,NA,GARCOM,Fortaleza,X689,X350,Hospital,NA
+1007,CE,2010,8,2010-08-22,1987-06-16,Masculino,Parda,NA,NA,Solteiro/a,12 e mais,NA,Fortaleza,X700,X700,Outros,Não
+1008,CE,2010,8,2010-08-24,NA,Masculino,Parda,NA,NA,Solteiro/a,NA,REPRESENTANTE COMERCIAL AUTONOMO,Fortaleza,X700,X700,Outros,NA
+1009,CE,2010,8,2010-08-08,1943-04-10,Feminino,Branca,NA,NA,Solteiro/a,12 e mais,NA,Fortaleza,X700,X700,Domicílio,NA
+1010,CE,2010,6,2010-06-05,1958-11-25,Feminino,NA,NA,NA,Casado/a,12 e mais,DONA DE CASA,Fortaleza,X689,X689,Hospital,NA
+1011,CE,2010,5,2010-05-18,1994-05-25,Feminino,Parda,NA,NA,Solteiro/a,1 a 3 anos,ESTUDANTE,Fortaleza,X629,X629,Via pública,Não
+1012,CE,2010,8,2010-08-05,1972-09-07,Masculino,Parda,NA,NA,Solteiro/a,NA,PESCADOR INDUSTRIAL,Chorozinho,X700,X700,Outros,NA
+1013,CE,2010,7,2010-07-30,1982-01-19,Masculino,Parda,NA,NA,Solteiro/a,12 e mais,ESTUDANTE,Fortaleza,X700,X700,Domicílio,Não
+1014,CE,2010,7,2010-07-25,1934-10-20,Masculino,Branca,NA,NA,Casado/a,NA,MOTORISTA DE CARRO DE PASSEIO,Fortaleza,X700,X700,Domicílio,Não
+1015,CE,2010,7,2010-07-19,1978-11-11,Masculino,Parda,NA,NA,Solteiro/a,12 e mais,REPRESENTANTE COMERCIAL AUTONOMO,Fortaleza,X700,X700,Domicílio,Não
+1016,CE,2010,7,2010-07-20,NA,Masculino,NA,NA,NA,Solteiro/a,NA,COMERCIANTE ATACADISTA,Fortaleza,X709,X709,Domicílio,NA
+1017,CE,2010,7,2010-07-03,NA,Masculino,NA,NA,NA,Solteiro/a,NA,NA,Fortaleza,X699,X699,Domicílio,Não
+1018,CE,2010,7,2010-07-22,1974-07-09,Masculino,Parda,NA,NA,Solteiro/a,NA,NA,Caucaia,X749,X749,Hospital,Sim
+1019,CE,2010,11,2010-11-05,1993-08-24,Feminino,Branca,NA,NA,Solteiro/a,8 a 11 anos,ESTUDANTE,Crato,X699,R58,Hospital,Não
+1020,CE,2010,11,2010-11-04,1935-09-05,Masculino,Parda,NA,NA,Casado/a,1 a 3 anos,TRABALHADOR AGROPECUARIO EM GERAL,Assaré,X690,X690,Hospital,Não
